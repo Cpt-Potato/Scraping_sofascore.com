@@ -1,0 +1,5897 @@
+{
+    "events": [
+        {
+            "tournament": {
+                "name": "AFC Champions League, Group I",
+                "slug": "afc-champions-league-group-i",
+                "category": {
+                    "name": "Asia",
+                    "slug": "asia",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 1467,
+                    "flag": "asia"
+                },
+                "uniqueTournament": {
+                    "name": "AFC Champions League",
+                    "slug": "afc-champions-league",
+                    "category": {
+                        "name": "Asia",
+                        "slug": "asia",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 1467,
+                        "flag": "asia"
+                    },
+                    "userCount": 30918,
+                    "id": 463,
+                    "hasEventPlayerStatistics": true,
+                    "hasPositionGraph": false
+                },
+                "priority": 51,
+                "id": 91203
+            },
+            "roundInfo": {
+                "round": 5
+            },
+            "customId": "Cccsddd",
+            "status": {
+                "code": 7,
+                "description": "2nd half",
+                "type": "inprogress"
+            },
+            "winnerCode": 0,
+            "homeTeam": {
+                "name": "Ulsan Hyundai",
+                "slug": "ulsan-hyundai",
+                "shortName": "Ulsan Hyundai",
+                "gender": "M",
+                "userCount": 17312,
+                "nameCode": "UHY",
+                "national": false,
+                "type": 0,
+                "id": 7653,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#0066ff",
+                    "secondary": "#0066ff",
+                    "text": "#0066ff"
+                }
+            },
+            "awayTeam": {
+                "name": "Kawasaki Frontale",
+                "slug": "kawasaki-frontale",
+                "shortName": "Kawasaki Frontale",
+                "gender": "M",
+                "userCount": 30186,
+                "nameCode": "KFR",
+                "national": false,
+                "type": 0,
+                "id": 5127,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#47b5f5",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                }
+            },
+            "homeScore": {
+                "current": 3,
+                "display": 3,
+                "period1": 2,
+                "period2": 1
+            },
+            "awayScore": {
+                "current": 1,
+                "display": 1,
+                "period1": 1,
+                "period2": 0
+            },
+            "coverage": -1,
+            "time": {
+                "injuryTime1": 2,
+                "injuryTime2": 4,
+                "initial": 2700,
+                "max": 5400,
+                "extra": 780,
+                "currentPeriodStartTimestamp": 1651053821
+            },
+            "changes": {
+                "changes": [
+                    "time.injuryTime2"
+                ],
+                "changeTimestamp": 1651056534
+            },
+            "hasGlobalHighlights": false,
+            "hasEventPlayerStatistics": true,
+            "hasEventPlayerHeatMap": true,
+            "id": 10155710,
+            "statusTime": {
+                "prefix": "",
+                "initial": 2700,
+                "max": 5400,
+                "timestamp": 1651053821,
+                "extra": 780
+            },
+            "startTimestamp": 1651050000,
+            "slug": "ulsan-hyundai-kawasaki-frontale",
+            "lastPeriod": "period2",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "NPL, New South Wales",
+                "slug": "npl-new-south-wales",
+                "category": {
+                    "name": "Australia",
+                    "slug": "australia",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 34,
+                    "flag": "australia",
+                    "alpha2": "AU"
+                },
+                "uniqueTournament": {
+                    "name": "NPL, New South Wales",
+                    "slug": "npl-new-south-wales",
+                    "category": {
+                        "name": "Australia",
+                        "slug": "australia",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 34,
+                        "flag": "australia",
+                        "alpha2": "AU"
+                    },
+                    "userCount": 1070,
+                    "id": 1274,
+                    "hasEventPlayerStatistics": false,
+                    "hasPositionGraph": false
+                },
+                "priority": 0,
+                "id": 31300
+            },
+            "roundInfo": {
+                "round": 4
+            },
+            "customId": "NibsQpLb",
+            "status": {
+                "code": 7,
+                "description": "2nd half",
+                "type": "inprogress"
+            },
+            "homeTeam": {
+                "name": "Wollongong Wolves",
+                "slug": "wollongong-wolves",
+                "shortName": "Wollongong Wolves",
+                "gender": "M",
+                "userCount": 1192,
+                "nameCode": "WWO",
+                "national": false,
+                "type": 0,
+                "id": 215791,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ff0000",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                }
+            },
+            "awayTeam": {
+                "name": "Sydney Olympic",
+                "slug": "sydney-olympic",
+                "shortName": "Sydney Olympic",
+                "gender": "M",
+                "userCount": 1332,
+                "nameCode": "OSH",
+                "national": false,
+                "type": 0,
+                "id": 2938,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#2447d5",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                }
+            },
+            "homeScore": {
+                "current": 1,
+                "display": 1,
+                "period1": 1,
+                "normaltime": 1
+            },
+            "awayScore": {
+                "current": 2,
+                "display": 2,
+                "period1": 2,
+                "normaltime": 2
+            },
+            "coverage": -1,
+            "time": {
+                "initial": 2700,
+                "max": 5400,
+                "extra": 540,
+                "currentPeriodStartTimestamp": 1651055760
+            },
+            "changes": {
+                "changes": [
+                    "status.code",
+                    "status.description",
+                    "time.currentPeriodStart"
+                ],
+                "changeTimestamp": 1651055802
+            },
+            "hasGlobalHighlights": false,
+            "id": 10276330,
+            "statusTime": {
+                "prefix": "",
+                "initial": 2700,
+                "max": 5400,
+                "timestamp": 1651055760,
+                "extra": 540
+            },
+            "startTimestamp": 1651051800,
+            "slug": "sydney-olympic-wollongong-wolves",
+            "lastPeriod": "period2",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "NPL, Queensland",
+                "slug": "npl-queensland",
+                "category": {
+                    "name": "Australia",
+                    "slug": "australia",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 34,
+                    "flag": "australia",
+                    "alpha2": "AU"
+                },
+                "uniqueTournament": {
+                    "name": "NPL, Queensland",
+                    "slug": "npl-queensland",
+                    "category": {
+                        "name": "Australia",
+                        "slug": "australia",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 34,
+                        "flag": "australia",
+                        "alpha2": "AU"
+                    },
+                    "userCount": 1975,
+                    "id": 1268,
+                    "hasEventPlayerStatistics": false,
+                    "hasPositionGraph": false
+                },
+                "priority": 0,
+                "id": 31283
+            },
+            "roundInfo": {
+                "round": 1
+            },
+            "customId": "LxLsDNL",
+            "status": {
+                "code": 7,
+                "description": "2nd half",
+                "type": "inprogress"
+            },
+            "homeTeam": {
+                "name": "Olympic FC",
+                "slug": "olympic-fc",
+                "shortName": "Olympic FC",
+                "gender": "M",
+                "userCount": 3140,
+                "nameCode": "OLY",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 91928,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ff0000",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "awayTeam": {
+                "name": "Eastern Suburbs",
+                "slug": "eastern-suburbs",
+                "shortName": "Eastern Suburbs",
+                "gender": "M",
+                "userCount": 795,
+                "nameCode": "ESB",
+                "national": false,
+                "type": 0,
+                "id": 91136,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ff8c00",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "homeScore": {
+                "current": 1,
+                "display": 1,
+                "period1": 1,
+                "normaltime": 1
+            },
+            "awayScore": {
+                "current": 1,
+                "display": 1,
+                "period1": 1,
+                "normaltime": 1
+            },
+            "coverage": -1,
+            "time": {
+                "initial": 2700,
+                "max": 5400,
+                "extra": 540,
+                "currentPeriodStartTimestamp": 1651055700
+            },
+            "changes": {
+                "changes": [
+                    "status.code",
+                    "status.description",
+                    "time.currentPeriodStart"
+                ],
+                "changeTimestamp": 1651055725
+            },
+            "hasGlobalHighlights": false,
+            "id": 10157576,
+            "statusTime": {
+                "prefix": "",
+                "initial": 2700,
+                "max": 5400,
+                "timestamp": 1651055700,
+                "extra": 540
+            },
+            "startTimestamp": 1651051800,
+            "slug": "olympic-fc-eastern-suburbs",
+            "lastPeriod": "period2",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "NPL, Queensland",
+                "slug": "npl-queensland",
+                "category": {
+                    "name": "Australia",
+                    "slug": "australia",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 34,
+                    "flag": "australia",
+                    "alpha2": "AU"
+                },
+                "uniqueTournament": {
+                    "name": "NPL, Queensland",
+                    "slug": "npl-queensland",
+                    "category": {
+                        "name": "Australia",
+                        "slug": "australia",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 34,
+                        "flag": "australia",
+                        "alpha2": "AU"
+                    },
+                    "userCount": 1975,
+                    "id": 1268,
+                    "hasEventPlayerStatistics": false,
+                    "hasPositionGraph": false
+                },
+                "priority": 0,
+                "id": 31283
+            },
+            "roundInfo": {
+                "round": 1
+            },
+            "customId": "UxLsvNL",
+            "status": {
+                "code": 7,
+                "description": "2nd half",
+                "type": "inprogress"
+            },
+            "homeTeam": {
+                "name": "Peninsula Power FC",
+                "slug": "peninsula-power-fc",
+                "shortName": "Peninsula",
+                "gender": "M",
+                "userCount": 3651,
+                "nameCode": "PPO",
+                "national": false,
+                "type": 0,
+                "id": 91144,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#1c5be1",
+                    "secondary": "#a2190f",
+                    "text": "#a2190f"
+                }
+            },
+            "awayTeam": {
+                "name": "Brisbane City FC",
+                "slug": "brisbane-city-fc",
+                "shortName": "Brisbane",
+                "gender": "M",
+                "userCount": 1154,
+                "nameCode": "BCI",
+                "national": false,
+                "type": 0,
+                "id": 91920,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#87ceeb",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "homeScore": {
+                "current": 3,
+                "display": 3,
+                "period1": 1,
+                "normaltime": 1
+            },
+            "awayScore": {
+                "current": 0,
+                "display": 0,
+                "period1": 0,
+                "normaltime": 0
+            },
+            "coverage": -1,
+            "time": {
+                "initial": 2700,
+                "max": 5400,
+                "extra": 540,
+                "currentPeriodStartTimestamp": 1651055700
+            },
+            "changes": {
+                "changes": [
+                    "homeScore.current",
+                    "homeScore.display"
+                ],
+                "changeTimestamp": 1651056226
+            },
+            "hasGlobalHighlights": false,
+            "id": 10157571,
+            "statusTime": {
+                "prefix": "",
+                "initial": 2700,
+                "max": 5400,
+                "timestamp": 1651055700,
+                "extra": 540
+            },
+            "startTimestamp": 1651051800,
+            "slug": "brisbane-city-fc-peninsula-power-fc",
+            "lastPeriod": "period2",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "FFA Cup,  Preliminary Round, ACT",
+                "slug": "ffa-cup-preliminary-round-act",
+                "category": {
+                    "name": "Australia",
+                    "slug": "australia",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 34,
+                    "flag": "australia",
+                    "alpha2": "AU"
+                },
+                "priority": 0,
+                "id": 59455
+            },
+            "customId": "BGLsDGL",
+            "status": {
+                "code": 42,
+                "description": "2nd extra",
+                "type": "inprogress"
+            },
+            "homeTeam": {
+                "name": "Tuggeranong United FC",
+                "slug": "tuggeranong-united-fc",
+                "shortName": "Tuggeranong",
+                "gender": "M",
+                "userCount": 279,
+                "nameCode": "TUT",
+                "national": false,
+                "type": 0,
+                "id": 91576,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#008000",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "awayTeam": {
+                "name": "West Canberra Wanderers",
+                "slug": "west-canberra-wanderers",
+                "shortName": "WCW",
+                "gender": "M",
+                "userCount": 266,
+                "nameCode": "WCW",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 91578,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#f40505",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                }
+            },
+            "homeScore": {
+                "current": 1,
+                "display": 1,
+                "period1": 1,
+                "period2": 0,
+                "normaltime": 1,
+                "extra1": 0,
+                "overtime": 0
+            },
+            "awayScore": {
+                "current": 3,
+                "display": 3,
+                "period1": 0,
+                "period2": 1,
+                "normaltime": 1,
+                "extra1": 1,
+                "overtime": 1
+            },
+            "coverage": -1,
+            "time": {
+                "initial": 6300,
+                "max": 7200,
+                "extra": 540,
+                "currentPeriodStartTimestamp": 1651056300
+            },
+            "changes": {
+                "changes": [
+                    "status.code",
+                    "status.description",
+                    "awayScore.current",
+                    "awayScore.display",
+                    "time.currentPeriodStart"
+                ],
+                "changeTimestamp": 1651056376
+            },
+            "hasGlobalHighlights": false,
+            "id": 10277318,
+            "statusTime": {
+                "prefix": "ET-",
+                "initial": 6300,
+                "max": 7200,
+                "timestamp": 1651056300,
+                "extra": 540
+            },
+            "startTimestamp": 1651048200,
+            "slug": "west-canberra-wanderers-tuggeranong-united-fc",
+            "lastPeriod": "extra2",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "FFA Cup, Preliminary Round, State NSW",
+                "slug": "ffa-cup-preliminary-round-state-nsw",
+                "category": {
+                    "name": "Australia",
+                    "slug": "australia",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 34,
+                    "flag": "australia",
+                    "alpha2": "AU"
+                },
+                "priority": 0,
+                "id": 43195
+            },
+            "customId": "bAbcszJcd",
+            "status": {
+                "code": 7,
+                "description": "2nd half",
+                "type": "inprogress"
+            },
+            "homeTeam": {
+                "name": "Banksia Tigers",
+                "slug": "banksia-tigers",
+                "shortName": "Banksia Tigers",
+                "userCount": 16,
+                "nameCode": "BTI",
+                "national": false,
+                "type": 0,
+                "id": 381724,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#52b030",
+                    "secondary": "#52b030",
+                    "text": "#ffffff"
+                }
+            },
+            "awayTeam": {
+                "name": "Dulwich Hill",
+                "slug": "dulwich-hill",
+                "shortName": "Dulwich Hill",
+                "userCount": 29,
+                "nameCode": "DHI",
+                "national": false,
+                "type": 0,
+                "id": 253751,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#52b030",
+                    "secondary": "#52b030",
+                    "text": "#ffffff"
+                }
+            },
+            "homeScore": {
+                "current": 2,
+                "display": 2,
+                "period1": 1,
+                "normaltime": 1
+            },
+            "awayScore": {
+                "current": 3,
+                "display": 3,
+                "period1": 1,
+                "normaltime": 1
+            },
+            "coverage": -1,
+            "time": {
+                "initial": 2700,
+                "max": 5400,
+                "extra": 540,
+                "currentPeriodStartTimestamp": 1651053900
+            },
+            "changes": {
+                "changes": [
+                    "homeScore.current",
+                    "homeScore.display"
+                ],
+                "changeTimestamp": 1651056545
+            },
+            "hasGlobalHighlights": false,
+            "id": 10277287,
+            "statusTime": {
+                "prefix": "",
+                "initial": 2700,
+                "max": 5400,
+                "timestamp": 1651053900,
+                "extra": 540
+            },
+            "startTimestamp": 1651050000,
+            "slug": "banksia-tigers-dulwich-hill",
+            "lastPeriod": "period2",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "FFA Cup, Preliminary Round, State NSW",
+                "slug": "ffa-cup-preliminary-round-state-nsw",
+                "category": {
+                    "name": "Australia",
+                    "slug": "australia",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 34,
+                    "flag": "australia",
+                    "alpha2": "AU"
+                },
+                "priority": 0,
+                "id": 43195
+            },
+            "customId": "cULseUL",
+            "status": {
+                "code": 7,
+                "description": "2nd half",
+                "type": "inprogress"
+            },
+            "homeTeam": {
+                "name": "Blacktown City FC",
+                "slug": "blacktown-city-fc",
+                "shortName": "Blacktown",
+                "gender": "M",
+                "userCount": 1015,
+                "nameCode": "BCI",
+                "national": false,
+                "type": 0,
+                "id": 92204,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#000000",
+                    "secondary": "#ff0000",
+                    "text": "#ff0000"
+                }
+            },
+            "awayTeam": {
+                "name": "APIA Leichhardt Tigers",
+                "slug": "apia-leichhardt-tigers",
+                "shortName": "Leichhardt",
+                "gender": "M",
+                "userCount": 1026,
+                "nameCode": "LTI",
+                "national": false,
+                "type": 0,
+                "id": 92202,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#3399ff",
+                    "secondary": "#8f000f",
+                    "text": "#8f000f"
+                }
+            },
+            "homeScore": {
+                "current": 1,
+                "display": 1,
+                "period1": 1,
+                "normaltime": 1
+            },
+            "awayScore": {
+                "current": 0,
+                "display": 0,
+                "period1": 0,
+                "normaltime": 0
+            },
+            "coverage": -1,
+            "time": {
+                "initial": 2700,
+                "max": 5400,
+                "extra": 540,
+                "currentPeriodStartTimestamp": 1651055760
+            },
+            "changes": {
+                "changes": [
+                    "status.code",
+                    "status.description",
+                    "time.currentPeriodStart"
+                ],
+                "changeTimestamp": 1651055798
+            },
+            "hasGlobalHighlights": false,
+            "id": 10277312,
+            "statusTime": {
+                "prefix": "",
+                "initial": 2700,
+                "max": 5400,
+                "timestamp": 1651055760,
+                "extra": 540
+            },
+            "startTimestamp": 1651051800,
+            "slug": "blacktown-city-fc-apia-leichhardt-tigers",
+            "lastPeriod": "period2",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "FFA Cup, Preliminary Round, State Northern NSW",
+                "slug": "ffa-cup-preliminary-round-state-northern-nsw",
+                "category": {
+                    "name": "Australia",
+                    "slug": "australia",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 34,
+                    "flag": "australia",
+                    "alpha2": "AU"
+                },
+                "priority": 0,
+                "id": 59247
+            },
+            "customId": "qtosqzeb",
+            "status": {
+                "code": 32,
+                "description": "Awaiting extra time",
+                "type": "inprogress"
+            },
+            "homeTeam": {
+                "name": "Mayfield United FC",
+                "slug": "mayfield-united-fc",
+                "shortName": "Mayfield Utd.",
+                "gender": "M",
+                "userCount": 67,
+                "nameCode": "MUN",
+                "national": false,
+                "type": 0,
+                "id": 35916,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#52b030",
+                    "secondary": "#52b030",
+                    "text": "#ffffff"
+                }
+            },
+            "awayTeam": {
+                "name": "Adamstown Rosebud FC",
+                "slug": "adamstown-rosebud-fc",
+                "shortName": "Adamstown",
+                "gender": "M",
+                "userCount": 357,
+                "nameCode": "ARO",
+                "national": false,
+                "type": 0,
+                "id": 136216,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#009038",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "homeScore": {
+                "current": 1,
+                "display": 1,
+                "period1": 0,
+                "period2": 1,
+                "normaltime": 1
+            },
+            "awayScore": {
+                "current": 1,
+                "display": 1,
+                "period1": 1,
+                "period2": 0,
+                "normaltime": 1
+            },
+            "coverage": -1,
+            "time": {
+                "currentPeriodStartTimestamp": 1651053600
+            },
+            "changes": {
+                "changes": [
+                    "status.code",
+                    "status.description",
+                    "homeScore.period2",
+                    "homeScore.normaltime",
+                    "awayScore.period2"
+                ],
+                "changeTimestamp": 1651056410
+            },
+            "hasGlobalHighlights": false,
+            "id": 10275838,
+            "startTimestamp": 1651050000,
+            "slug": "mayfield-united-fc-adamstown-rosebud-fc",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "FFA Cup, Preliminary Round, State Victoria",
+                "slug": "ffa-cup-preliminary-round-state-victoria",
+                "category": {
+                    "name": "Australia",
+                    "slug": "australia",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 34,
+                    "flag": "australia",
+                    "alpha2": "AU"
+                },
+                "priority": 0,
+                "id": 43234
+            },
+            "customId": "FtpbsNeCb",
+            "status": {
+                "code": 6,
+                "description": "1st half",
+                "type": "inprogress"
+            },
+            "winnerCode": 0,
+            "homeTeam": {
+                "name": "St. Albans Saints",
+                "slug": "st-albans-saints",
+                "shortName": "St. Albans",
+                "gender": "M",
+                "userCount": 521,
+                "nameCode": "SAL",
+                "national": false,
+                "type": 0,
+                "id": 163430,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#0000ff",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "awayTeam": {
+                "name": "Whittlesea Ranges",
+                "slug": "whittlesea-ranges",
+                "shortName": "Whittlesea Ranges",
+                "userCount": 24,
+                "nameCode": "WRA",
+                "national": false,
+                "type": 0,
+                "id": 192738,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#52b030",
+                    "secondary": "#52b030",
+                    "text": "#ffffff"
+                }
+            },
+            "homeScore": {
+                "current": 3,
+                "display": 3
+            },
+            "awayScore": {
+                "current": 0,
+                "display": 0
+            },
+            "coverage": -1,
+            "time": {
+                "initial": 0,
+                "max": 2700,
+                "extra": 540,
+                "currentPeriodStartTimestamp": 1651053795
+            },
+            "changes": {
+                "changes": [
+                    "homeScore.current",
+                    "homeScore.display"
+                ],
+                "changeTimestamp": 1651056164
+            },
+            "hasGlobalHighlights": false,
+            "id": 10265496,
+            "statusTime": {
+                "prefix": "",
+                "initial": 0,
+                "max": 2700,
+                "timestamp": 1651053795,
+                "extra": 540
+            },
+            "startTimestamp": 1651051800,
+            "slug": "whittlesea-ranges-st-albans-saints",
+            "lastPeriod": "period1",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "South Coast Division 1",
+                "slug": "south-coast-division-1",
+                "category": {
+                    "name": "Australia",
+                    "slug": "australia",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 34,
+                    "flag": "australia",
+                    "alpha2": "AU"
+                },
+                "priority": 0,
+                "id": 101129
+            },
+            "customId": "OwBcslDpd",
+            "status": {
+                "code": 6,
+                "description": "1st half",
+                "type": "inprogress"
+            },
+            "winnerCode": 0,
+            "homeTeam": {
+                "name": "Surfers Paradise 2",
+                "slug": "surfers-paradise-2",
+                "shortName": "Surfers Paradise 2",
+                "userCount": 466,
+                "nameCode": "SPA",
+                "national": false,
+                "type": 0,
+                "id": 316089,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#52b030",
+                    "secondary": "#52b030",
+                    "text": "#ffffff"
+                }
+            },
+            "awayTeam": {
+                "name": "Southport FC White",
+                "slug": "southport-fc-white",
+                "shortName": "Southport FC White",
+                "userCount": 0,
+                "nameCode": "SFW",
+                "national": false,
+                "type": 0,
+                "id": 413911,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#52b030",
+                    "secondary": "#52b030",
+                    "text": "#ffffff"
+                }
+            },
+            "homeScore": {
+                "current": 2,
+                "display": 2
+            },
+            "awayScore": {
+                "current": 0,
+                "display": 0
+            },
+            "coverage": -1,
+            "time": {
+                "initial": 0,
+                "max": 2700,
+                "extra": 540,
+                "currentPeriodStartTimestamp": 1651054309
+            },
+            "changes": {
+                "changes": [
+                    "homeScore.current",
+                    "homeScore.display"
+                ],
+                "changeTimestamp": 1651056515
+            },
+            "hasGlobalHighlights": false,
+            "id": 10275904,
+            "statusTime": {
+                "prefix": "",
+                "initial": 0,
+                "max": 2700,
+                "timestamp": 1651054309,
+                "extra": 540
+            },
+            "startTimestamp": 1651053900,
+            "slug": "southport-fc-white-surfers-paradise-2",
+            "lastPeriod": "period1",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "U23 Queensland NPL",
+                "slug": "u23-queensland-npl",
+                "category": {
+                    "name": "Australia",
+                    "slug": "australia",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 34,
+                    "flag": "australia",
+                    "alpha2": "AU"
+                },
+                "priority": 0,
+                "id": 92822
+            },
+            "customId": "eCadsAtgd",
+            "status": {
+                "code": 7,
+                "description": "2nd half",
+                "type": "inprogress"
+            },
+            "homeTeam": {
+                "name": "Moreton Bay United U23",
+                "slug": "moreton-bay-united-u23",
+                "shortName": "Moreton Bay Utd.",
+                "gender": "M",
+                "userCount": 88,
+                "nameCode": "MBU",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 376354,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#52b030",
+                    "secondary": "#52b030",
+                    "text": "#ffffff"
+                }
+            },
+            "awayTeam": {
+                "name": "Sunshine Coast Wanderers U23",
+                "slug": "sunshine-coast-wanderers-u23",
+                "shortName": "Sunshine Coast",
+                "gender": "M",
+                "userCount": 15,
+                "nameCode": "SCW",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 390925,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#52b030",
+                    "secondary": "#52b030",
+                    "text": "#ffffff"
+                }
+            },
+            "homeScore": {
+                "current": 0,
+                "display": 0,
+                "period1": 0,
+                "normaltime": 0
+            },
+            "awayScore": {
+                "current": 0,
+                "display": 0,
+                "period1": 0,
+                "normaltime": 0
+            },
+            "coverage": -1,
+            "time": {
+                "initial": 2700,
+                "max": 5400,
+                "extra": 540,
+                "currentPeriodStartTimestamp": 1651055520
+            },
+            "changes": {
+                "changes": [
+                    "status.code",
+                    "status.description",
+                    "time.currentPeriodStart"
+                ],
+                "changeTimestamp": 1651055549
+            },
+            "hasGlobalHighlights": false,
+            "id": 10277160,
+            "statusTime": {
+                "prefix": "",
+                "initial": 2700,
+                "max": 5400,
+                "timestamp": 1651055520,
+                "extra": 540
+            },
+            "startTimestamp": 1651051800,
+            "slug": "sunshine-coast-wanderers-u23-moreton-bay-united-u23",
+            "lastPeriod": "period2",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "National Championship, Women",
+                "slug": "national-championship-women",
+                "category": {
+                    "name": "Cameroon",
+                    "slug": "cameroon",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 391,
+                    "flag": "cameroon",
+                    "alpha2": "CM"
+                },
+                "priority": 0,
+                "id": 71977
+            },
+            "customId": "HpJcsaupd",
+            "status": {
+                "code": 6,
+                "description": "1st half",
+                "type": "inprogress"
+            },
+            "homeTeam": {
+                "name": "Lekie Filles FC",
+                "slug": "lekie-filles-fc",
+                "shortName": "Lekie Filles FC",
+                "userCount": 3,
+                "nameCode": "LFF",
+                "national": false,
+                "type": 0,
+                "id": 413450,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#52b030",
+                    "secondary": "#52b030",
+                    "text": "#ffffff"
+                }
+            },
+            "awayTeam": {
+                "name": "FC Ebolowa",
+                "slug": "fc-ebolowa",
+                "shortName": "FC Ebolowa",
+                "userCount": 74,
+                "nameCode": "EBO",
+                "national": false,
+                "type": 0,
+                "id": 335782,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#52b030",
+                    "secondary": "#52b030",
+                    "text": "#ffffff"
+                }
+            },
+            "homeScore": {
+                "current": 0,
+                "display": 0
+            },
+            "awayScore": {
+                "current": 0,
+                "display": 0
+            },
+            "coverage": -1,
+            "time": {
+                "initial": 0,
+                "max": 2700,
+                "extra": 540,
+                "currentPeriodStartTimestamp": 1651053780
+            },
+            "changes": {
+                "changes": [
+                    "status.code",
+                    "status.description",
+                    "status.type",
+                    "homeScore.current",
+                    "homeScore.display",
+                    "awayScore.current",
+                    "awayScore.display",
+                    "time.currentPeriodStart"
+                ],
+                "changeTimestamp": 1651053806
+            },
+            "hasGlobalHighlights": false,
+            "id": 10277283,
+            "statusTime": {
+                "prefix": "",
+                "initial": 0,
+                "max": 2700,
+                "timestamp": 1651053780,
+                "extra": 540
+            },
+            "startTimestamp": 1651053600,
+            "slug": "lekie-filles-fc-fc-ebolowa",
+            "lastPeriod": "period1",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "U19 League",
+                "slug": "u19-league",
+                "category": {
+                    "name": "Hungary",
+                    "slug": "hungary",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 11,
+                    "flag": "hungary",
+                    "alpha2": "HU"
+                },
+                "priority": 0,
+                "id": 47245
+            },
+            "customId": "jGFscCHb",
+            "status": {
+                "code": 31,
+                "description": "Halftime",
+                "type": "inprogress"
+            },
+            "winnerCode": 0,
+            "homeTeam": {
+                "name": "Vasas Kubala Academy U19",
+                "slug": "vasas-kubala-academy-u19",
+                "shortName": "Kubala",
+                "userCount": 113,
+                "nameCode": "VKA",
+                "national": false,
+                "type": 0,
+                "id": 76559,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#52b030",
+                    "secondary": "#52b030",
+                    "text": "#ffffff"
+                }
+            },
+            "awayTeam": {
+                "name": "Felcs\u00fat SE U19",
+                "slug": "felcsut-se-u19",
+                "shortName": "Felcs\u00fat SE",
+                "gender": "M",
+                "userCount": 31,
+                "nameCode": "FEL",
+                "national": false,
+                "type": 0,
+                "id": 206352,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#52b030",
+                    "secondary": "#52b030",
+                    "text": "#ffffff"
+                }
+            },
+            "homeScore": {
+                "current": 0,
+                "display": 0,
+                "period1": 0
+            },
+            "awayScore": {
+                "current": 1,
+                "display": 1,
+                "period1": 1
+            },
+            "coverage": -1,
+            "time": {
+                "injuryTime1": 1,
+                "currentPeriodStartTimestamp": 1651056395
+            },
+            "changes": {
+                "changes": [
+                    "status.code",
+                    "status.description",
+                    "homeScore.period1",
+                    "awayScore.period1",
+                    "time.currentPeriodStart",
+                    "time.injuryTime1"
+                ],
+                "changeTimestamp": 1651056515
+            },
+            "hasGlobalHighlights": false,
+            "id": 10265503,
+            "startTimestamp": 1651053600,
+            "slug": "vasas-kubala-academy-u19-felcsut-se-u19",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "J.League 2",
+                "slug": "jleague-2",
+                "category": {
+                    "name": "Japan",
+                    "slug": "japan",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 52,
+                    "flag": "japan",
+                    "alpha2": "JP"
+                },
+                "uniqueTournament": {
+                    "name": "J.League 2",
+                    "slug": "jleague-2",
+                    "category": {
+                        "name": "Japan",
+                        "slug": "japan",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 52,
+                        "flag": "japan",
+                        "alpha2": "JP"
+                    },
+                    "userCount": 4882,
+                    "id": 402,
+                    "hasEventPlayerStatistics": false,
+                    "hasPositionGraph": true
+                },
+                "priority": 0,
+                "id": 3034
+            },
+            "roundInfo": {
+                "round": 12
+            },
+            "customId": "JFnsyPr",
+            "status": {
+                "code": 7,
+                "description": "2nd half",
+                "type": "inprogress"
+            },
+            "winnerCode": 0,
+            "homeTeam": {
+                "name": "Blaublitz Akita",
+                "slug": "blaublitz-akita",
+                "shortName": "Blaublitz A",
+                "gender": "M",
+                "userCount": 1730,
+                "nameCode": "BAK",
+                "national": false,
+                "type": 0,
+                "id": 44523,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#006ac0",
+                    "secondary": "#000080",
+                    "text": "#000080"
+                }
+            },
+            "awayTeam": {
+                "name": "Fagiano Okayama",
+                "slug": "fagiano-okayama",
+                "shortName": "Fagiano Okayama",
+                "gender": "M",
+                "userCount": 1263,
+                "nameCode": "FOK",
+                "national": false,
+                "type": 0,
+                "id": 34034,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#040033",
+                    "secondary": "#b70000",
+                    "text": "#b70000"
+                }
+            },
+            "homeScore": {
+                "current": 0,
+                "display": 0,
+                "period1": 0,
+                "period2": 0
+            },
+            "awayScore": {
+                "current": 1,
+                "display": 1,
+                "period1": 1,
+                "period2": 0
+            },
+            "time": {
+                "injuryTime1": 1,
+                "initial": 2700,
+                "max": 5400,
+                "extra": 540,
+                "currentPeriodStartTimestamp": 1651055651
+            },
+            "changes": {
+                "changes": [
+                    "status.code",
+                    "status.description",
+                    "time.currentPeriodStart"
+                ],
+                "changeTimestamp": 1651055655
+            },
+            "hasGlobalHighlights": false,
+            "id": 10094844,
+            "statusTime": {
+                "prefix": "",
+                "initial": 2700,
+                "max": 5400,
+                "timestamp": 1651055651,
+                "extra": 540
+            },
+            "startTimestamp": 1651051800,
+            "slug": "blaublitz-akita-fagiano-okayama",
+            "lastPeriod": "period2",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "J.League 2",
+                "slug": "jleague-2",
+                "category": {
+                    "name": "Japan",
+                    "slug": "japan",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 52,
+                    "flag": "japan",
+                    "alpha2": "JP"
+                },
+                "uniqueTournament": {
+                    "name": "J.League 2",
+                    "slug": "jleague-2",
+                    "category": {
+                        "name": "Japan",
+                        "slug": "japan",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 52,
+                        "flag": "japan",
+                        "alpha2": "JP"
+                    },
+                    "userCount": 4882,
+                    "id": 402,
+                    "hasEventPlayerStatistics": false,
+                    "hasPositionGraph": true
+                },
+                "priority": 0,
+                "id": 3034
+            },
+            "roundInfo": {
+                "round": 12
+            },
+            "customId": "DccsuPr",
+            "status": {
+                "code": 6,
+                "description": "1st half",
+                "type": "inprogress"
+            },
+            "winnerCode": 0,
+            "homeTeam": {
+                "name": "Albirex Niigata",
+                "slug": "albirex-niigata",
+                "shortName": "Albirex Niigata",
+                "gender": "M",
+                "userCount": 2396,
+                "nameCode": "NAL",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 5128,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ff8000",
+                    "secondary": "#ff8000",
+                    "text": "#ff8000"
+                }
+            },
+            "awayTeam": {
+                "name": "Iwate Grulla Morioka",
+                "slug": "iwate-grulla-morioka",
+                "shortName": "Iwate Grulla Morioka",
+                "gender": "M",
+                "userCount": 848,
+                "nameCode": "GMO",
+                "national": false,
+                "type": 0,
+                "id": 44519,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ffffff",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                }
+            },
+            "homeScore": {
+                "current": 1,
+                "display": 1,
+                "period1": 1
+            },
+            "awayScore": {
+                "current": 0,
+                "display": 0,
+                "period1": 0
+            },
+            "coverage": -1,
+            "time": {
+                "injuryTime1": 2,
+                "initial": 0,
+                "max": 2700,
+                "extra": 660,
+                "currentPeriodStartTimestamp": 1651053805
+            },
+            "changes": {
+                "changes": [
+                    "time.injuryTime1"
+                ],
+                "changeTimestamp": 1651056516
+            },
+            "hasGlobalHighlights": false,
+            "id": 10094862,
+            "statusTime": {
+                "prefix": "",
+                "initial": 0,
+                "max": 2700,
+                "timestamp": 1651053805,
+                "extra": 660
+            },
+            "startTimestamp": 1651053600,
+            "slug": "albirex-niigata-iwate-grulla-morioka",
+            "lastPeriod": "period1",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "J.League 2",
+                "slug": "jleague-2",
+                "category": {
+                    "name": "Japan",
+                    "slug": "japan",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 52,
+                    "flag": "japan",
+                    "alpha2": "JP"
+                },
+                "uniqueTournament": {
+                    "name": "J.League 2",
+                    "slug": "jleague-2",
+                    "category": {
+                        "name": "Japan",
+                        "slug": "japan",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 52,
+                        "flag": "japan",
+                        "alpha2": "JP"
+                    },
+                    "userCount": 4882,
+                    "id": 402,
+                    "hasEventPlayerStatistics": false,
+                    "hasPositionGraph": true
+                },
+                "priority": 0,
+                "id": 3034
+            },
+            "roundInfo": {
+                "round": 12
+            },
+            "customId": "NmpsDPr",
+            "status": {
+                "code": 6,
+                "description": "1st half",
+                "type": "inprogress"
+            },
+            "winnerCode": 0,
+            "homeTeam": {
+                "name": "FC Ryukyu",
+                "slug": "fc-ryukyu",
+                "shortName": "Ryukyu",
+                "gender": "M",
+                "userCount": 2262,
+                "nameCode": "RYU",
+                "national": false,
+                "type": 0,
+                "id": 44528,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#880019",
+                    "secondary": "#c1af60",
+                    "text": "#c1af60"
+                }
+            },
+            "awayTeam": {
+                "name": "Zweigen Kanazawa",
+                "slug": "zweigen-kanazawa",
+                "shortName": "Zweigen Kanazawa",
+                "gender": "M",
+                "userCount": 878,
+                "nameCode": "ZKA",
+                "national": false,
+                "type": 0,
+                "id": 38138,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#e30000",
+                    "secondary": "#fb7d00",
+                    "text": "#fb7d00"
+                }
+            },
+            "homeScore": {
+                "current": 0,
+                "display": 0,
+                "period1": 0
+            },
+            "awayScore": {
+                "current": 1,
+                "display": 1,
+                "period1": 1
+            },
+            "time": {
+                "injuryTime1": 1,
+                "initial": 0,
+                "max": 2700,
+                "extra": 600,
+                "currentPeriodStartTimestamp": 1651053806
+            },
+            "changes": {
+                "changes": [
+                    "time.injuryTime1"
+                ],
+                "changeTimestamp": 1651056540
+            },
+            "hasGlobalHighlights": false,
+            "id": 10094874,
+            "statusTime": {
+                "prefix": "",
+                "initial": 0,
+                "max": 2700,
+                "timestamp": 1651053806,
+                "extra": 600
+            },
+            "startTimestamp": 1651053600,
+            "slug": "fc-ryukyu-zweigen-kanazawa",
+            "lastPeriod": "period1",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "J.League 2",
+                "slug": "jleague-2",
+                "category": {
+                    "name": "Japan",
+                    "slug": "japan",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 52,
+                    "flag": "japan",
+                    "alpha2": "JP"
+                },
+                "uniqueTournament": {
+                    "name": "J.League 2",
+                    "slug": "jleague-2",
+                    "category": {
+                        "name": "Japan",
+                        "slug": "japan",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 52,
+                        "flag": "japan",
+                        "alpha2": "JP"
+                    },
+                    "userCount": 4882,
+                    "id": 402,
+                    "hasEventPlayerStatistics": false,
+                    "hasPositionGraph": true
+                },
+                "priority": 0,
+                "id": 3034
+            },
+            "roundInfo": {
+                "round": 12
+            },
+            "customId": "UmbsWmp",
+            "status": {
+                "code": 6,
+                "description": "1st half",
+                "type": "inprogress"
+            },
+            "winnerCode": 0,
+            "homeTeam": {
+                "name": "JEF United Chiba",
+                "slug": "jef-united-chiba",
+                "shortName": "Chiba",
+                "gender": "M",
+                "userCount": 1059,
+                "nameCode": "UCH",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 3144,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#eeff55",
+                    "secondary": "#01b452",
+                    "text": "#01b452"
+                }
+            },
+            "awayTeam": {
+                "name": "Renofa Yamaguchi FC",
+                "slug": "renofa-yamaguchi-fc",
+                "shortName": "Yamaguchi",
+                "gender": "M",
+                "userCount": 864,
+                "nameCode": "RYA",
+                "national": false,
+                "type": 0,
+                "id": 38146,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ff7f27",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                }
+            },
+            "homeScore": {
+                "current": 2,
+                "display": 2,
+                "period1": 2
+            },
+            "awayScore": {
+                "current": 0,
+                "display": 0,
+                "period1": 0
+            },
+            "coverage": -1,
+            "time": {
+                "initial": 0,
+                "max": 2700,
+                "extra": 540,
+                "currentPeriodStartTimestamp": 1651053793
+            },
+            "changes": {
+                "changes": [
+                    "time.currentPeriodStart",
+                    "homeScore.period1",
+                    "awayScore.period1",
+                    "homeScore.current",
+                    "homeScore.display",
+                    "homeScore.period1",
+                    "awayScore.period1",
+                    "time.currentPeriodStart"
+                ],
+                "changeTimestamp": 1651056502
+            },
+            "hasGlobalHighlights": false,
+            "id": 10094863,
+            "statusTime": {
+                "prefix": "",
+                "initial": 0,
+                "max": 2700,
+                "timestamp": 1651053793,
+                "extra": 540
+            },
+            "startTimestamp": 1651053600,
+            "slug": "renofa-yamaguchi-fc-jef-united-chiba",
+            "lastPeriod": "period1",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "J.League 2",
+                "slug": "jleague-2",
+                "category": {
+                    "name": "Japan",
+                    "slug": "japan",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 52,
+                    "flag": "japan",
+                    "alpha2": "JP"
+                },
+                "uniqueTournament": {
+                    "name": "J.League 2",
+                    "slug": "jleague-2",
+                    "category": {
+                        "name": "Japan",
+                        "slug": "japan",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 52,
+                        "flag": "japan",
+                        "alpha2": "JP"
+                    },
+                    "userCount": 4882,
+                    "id": 402,
+                    "hasEventPlayerStatistics": false,
+                    "hasPositionGraph": true
+                },
+                "priority": 0,
+                "id": 3034
+            },
+            "roundInfo": {
+                "round": 12
+            },
+            "customId": "Eccsjvk",
+            "status": {
+                "code": 31,
+                "description": "Halftime",
+                "type": "inprogress"
+            },
+            "winnerCode": 0,
+            "homeTeam": {
+                "name": "Oita Trinita",
+                "slug": "oita-trinita",
+                "shortName": "Oita",
+                "gender": "M",
+                "userCount": 2391,
+                "nameCode": "OTR",
+                "national": false,
+                "type": 0,
+                "id": 5129,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#014596",
+                    "secondary": "#040404",
+                    "text": "#040404"
+                }
+            },
+            "awayTeam": {
+                "name": "Tochigi SC",
+                "slug": "tochigi-sc",
+                "shortName": "Tochigi",
+                "gender": "M",
+                "userCount": 871,
+                "nameCode": "TOC",
+                "national": false,
+                "type": 0,
+                "id": 26009,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#fee401",
+                    "secondary": "#00003e",
+                    "text": "#00003e"
+                }
+            },
+            "homeScore": {
+                "current": 0,
+                "display": 0,
+                "period1": 0,
+                "period2": 0
+            },
+            "awayScore": {
+                "current": 0,
+                "display": 0,
+                "period1": 0,
+                "period2": 0
+            },
+            "time": {
+                "injuryTime1": 1,
+                "currentPeriodStartTimestamp": 1651056571
+            },
+            "changes": {
+                "changes": [
+                    "time.currentPeriodStart",
+                    "status.code",
+                    "status.description",
+                    "homeScore.period2",
+                    "awayScore.period2"
+                ],
+                "changeTimestamp": 1651056577
+            },
+            "hasGlobalHighlights": false,
+            "id": 10094865,
+            "startTimestamp": 1651053600,
+            "slug": "oita-trinita-tochigi-sc",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "J.League 2",
+                "slug": "jleague-2",
+                "category": {
+                    "name": "Japan",
+                    "slug": "japan",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 52,
+                    "flag": "japan",
+                    "alpha2": "JP"
+                },
+                "uniqueTournament": {
+                    "name": "J.League 2",
+                    "slug": "jleague-2",
+                    "category": {
+                        "name": "Japan",
+                        "slug": "japan",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 52,
+                        "flag": "japan",
+                        "alpha2": "JP"
+                    },
+                    "userCount": 4882,
+                    "id": 402,
+                    "hasEventPlayerStatistics": false,
+                    "hasPositionGraph": true
+                },
+                "priority": 0,
+                "id": 3034
+            },
+            "roundInfo": {
+                "round": 12
+            },
+            "customId": "FccsgNi",
+            "status": {
+                "code": 6,
+                "description": "1st half",
+                "type": "inprogress"
+            },
+            "winnerCode": 0,
+            "homeTeam": {
+                "name": "Omiya Ardija",
+                "slug": "omiya-ardija",
+                "shortName": "Omiya Ardija",
+                "gender": "M",
+                "userCount": 1126,
+                "nameCode": "OAR",
+                "national": false,
+                "type": 0,
+                "id": 5130,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ff8000",
+                    "secondary": "#ff8000",
+                    "text": "#ff8000"
+                }
+            },
+            "awayTeam": {
+                "name": "Thespakusatsu Gunma",
+                "slug": "thespakusatsu-gunma",
+                "shortName": "Kusatsu G",
+                "gender": "M",
+                "userCount": 905,
+                "nameCode": "TGU",
+                "national": false,
+                "type": 0,
+                "id": 21906,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ffc90e",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                }
+            },
+            "homeScore": {
+                "current": 0,
+                "display": 0,
+                "period1": 0
+            },
+            "awayScore": {
+                "current": 2,
+                "display": 2,
+                "period1": 2
+            },
+            "coverage": -1,
+            "time": {
+                "injuryTime1": 3,
+                "initial": 0,
+                "max": 2700,
+                "extra": 720,
+                "currentPeriodStartTimestamp": 1651053821
+            },
+            "changes": {
+                "changes": [
+                    "time.injuryTime1"
+                ],
+                "changeTimestamp": 1651056546
+            },
+            "hasGlobalHighlights": false,
+            "id": 10094861,
+            "statusTime": {
+                "prefix": "",
+                "initial": 0,
+                "max": 2700,
+                "timestamp": 1651053821,
+                "extra": 720
+            },
+            "startTimestamp": 1651053600,
+            "slug": "omiya-ardija-thespakusatsu-gunma",
+            "lastPeriod": "period1",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "J.League 2",
+                "slug": "jleague-2",
+                "category": {
+                    "name": "Japan",
+                    "slug": "japan",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 52,
+                    "flag": "japan",
+                    "alpha2": "JP"
+                },
+                "uniqueTournament": {
+                    "name": "J.League 2",
+                    "slug": "jleague-2",
+                    "category": {
+                        "name": "Japan",
+                        "slug": "japan",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 52,
+                        "flag": "japan",
+                        "alpha2": "JP"
+                    },
+                    "userCount": 4882,
+                    "id": 402,
+                    "hasEventPlayerStatistics": false,
+                    "hasPositionGraph": true
+                },
+                "priority": 0,
+                "id": 3034
+            },
+            "roundInfo": {
+                "round": 12
+            },
+            "customId": "YmbsdNi",
+            "status": {
+                "code": 31,
+                "description": "Halftime",
+                "type": "inprogress"
+            },
+            "winnerCode": 0,
+            "homeTeam": {
+                "name": "Roasso Kumamoto",
+                "slug": "roasso-kumamoto",
+                "shortName": "Kumamoto",
+                "gender": "M",
+                "userCount": 1368,
+                "nameCode": "RKU",
+                "national": false,
+                "type": 0,
+                "id": 21903,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ff0000",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                }
+            },
+            "awayTeam": {
+                "name": "Vegalta Sendai",
+                "slug": "vegalta-sendai",
+                "shortName": "Vegalta Sendai",
+                "gender": "M",
+                "userCount": 1980,
+                "nameCode": "VSE",
+                "national": false,
+                "type": 0,
+                "id": 3148,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#fed801",
+                    "secondary": "#fed801",
+                    "text": "#fed801"
+                }
+            },
+            "homeScore": {
+                "current": 0,
+                "display": 0,
+                "period1": 0,
+                "period2": 0
+            },
+            "awayScore": {
+                "current": 1,
+                "display": 1,
+                "period1": 1,
+                "period2": 0
+            },
+            "time": {
+                "injuryTime1": 1,
+                "currentPeriodStartTimestamp": 1651056563
+            },
+            "changes": {
+                "changes": [
+                    "homeScore.period2",
+                    "awayScore.period2"
+                ],
+                "changeTimestamp": 1651056568
+            },
+            "hasGlobalHighlights": false,
+            "id": 10094866,
+            "startTimestamp": 1651053600,
+            "slug": "vegalta-sendai-roasso-kumamoto",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "J.League 2",
+                "slug": "jleague-2",
+                "category": {
+                    "name": "Japan",
+                    "slug": "japan",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 52,
+                    "flag": "japan",
+                    "alpha2": "JP"
+                },
+                "uniqueTournament": {
+                    "name": "J.League 2",
+                    "slug": "jleague-2",
+                    "category": {
+                        "name": "Japan",
+                        "slug": "japan",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 52,
+                        "flag": "japan",
+                        "alpha2": "JP"
+                    },
+                    "userCount": 4882,
+                    "id": 402,
+                    "hasEventPlayerStatistics": false,
+                    "hasPositionGraph": true
+                },
+                "priority": 0,
+                "id": 3034
+            },
+            "roundInfo": {
+                "round": 12
+            },
+            "customId": "cNishNi",
+            "status": {
+                "code": 31,
+                "description": "Halftime",
+                "type": "inprogress"
+            },
+            "winnerCode": 0,
+            "homeTeam": {
+                "name": "Tokushima Vortis",
+                "slug": "tokushima-vortis",
+                "shortName": "Tokushima V",
+                "gender": "M",
+                "userCount": 2528,
+                "nameCode": "TVO",
+                "national": false,
+                "type": 0,
+                "id": 21907,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#0000a0",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "awayTeam": {
+                "name": "Montedio Yamagata",
+                "slug": "montedio-yamagata",
+                "shortName": "Yamagata",
+                "gender": "M",
+                "userCount": 1178,
+                "nameCode": "MYA",
+                "national": false,
+                "type": 0,
+                "id": 21902,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#0000a0",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "homeScore": {
+                "current": 0,
+                "display": 0,
+                "period1": 0,
+                "period2": 0
+            },
+            "awayScore": {
+                "current": 0,
+                "display": 0,
+                "period1": 0,
+                "period2": 0
+            },
+            "time": {
+                "injuryTime1": 1,
+                "currentPeriodStartTimestamp": 1651056584
+            },
+            "changes": {
+                "changes": [
+                    "homeScore.period2",
+                    "awayScore.period2",
+                    "time.currentPeriodStart"
+                ],
+                "changeTimestamp": 1651056588
+            },
+            "hasGlobalHighlights": false,
+            "id": 10094856,
+            "startTimestamp": 1651053600,
+            "slug": "tokushima-vortis-montedio-yamagata",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "J.League 2",
+                "slug": "jleague-2",
+                "category": {
+                    "name": "Japan",
+                    "slug": "japan",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 52,
+                    "flag": "japan",
+                    "alpha2": "JP"
+                },
+                "uniqueTournament": {
+                    "name": "J.League 2",
+                    "slug": "jleague-2",
+                    "category": {
+                        "name": "Japan",
+                        "slug": "japan",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 52,
+                        "flag": "japan",
+                        "alpha2": "JP"
+                    },
+                    "userCount": 4882,
+                    "id": 402,
+                    "hasEventPlayerStatistics": false,
+                    "hasPositionGraph": true
+                },
+                "priority": 0,
+                "id": 3034
+            },
+            "roundInfo": {
+                "round": 12
+            },
+            "customId": "bNisenp",
+            "status": {
+                "code": 6,
+                "description": "1st half",
+                "type": "inprogress"
+            },
+            "winnerCode": 0,
+            "homeTeam": {
+                "name": "V-Varen Nagasaki",
+                "slug": "v-varen-nagasaki",
+                "shortName": "Nagasaki",
+                "gender": "M",
+                "userCount": 2131,
+                "nameCode": "VNA",
+                "national": false,
+                "type": 0,
+                "id": 38154,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#0000a0",
+                    "secondary": "#ff7f27",
+                    "text": "#ff7f27"
+                }
+            },
+            "awayTeam": {
+                "name": "Mito Hollyhock",
+                "slug": "mito-hollyhock",
+                "shortName": "Mito Hollyhock",
+                "gender": "M",
+                "userCount": 1156,
+                "nameCode": "MHO",
+                "national": false,
+                "type": 0,
+                "id": 21901,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#000077",
+                    "secondary": "#99d9ea",
+                    "text": "#99d9ea"
+                }
+            },
+            "homeScore": {
+                "current": 1,
+                "display": 1,
+                "period1": 1
+            },
+            "awayScore": {
+                "current": 0,
+                "display": 0,
+                "period1": 0
+            },
+            "coverage": -1,
+            "time": {
+                "injuryTime1": 4,
+                "initial": 0,
+                "max": 2700,
+                "extra": 780,
+                "currentPeriodStartTimestamp": 1651053796
+            },
+            "changes": {
+                "changes": [
+                    "time.injuryTime1"
+                ],
+                "changeTimestamp": 1651056516
+            },
+            "hasGlobalHighlights": false,
+            "id": 10094875,
+            "statusTime": {
+                "prefix": "",
+                "initial": 0,
+                "max": 2700,
+                "timestamp": 1651053796,
+                "extra": 780
+            },
+            "startTimestamp": 1651053600,
+            "slug": "v-varen-nagasaki-mito-hollyhock",
+            "lastPeriod": "period1",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "J.League 2",
+                "slug": "jleague-2",
+                "category": {
+                    "name": "Japan",
+                    "slug": "japan",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 52,
+                    "flag": "japan",
+                    "alpha2": "JP"
+                },
+                "uniqueTournament": {
+                    "name": "J.League 2",
+                    "slug": "jleague-2",
+                    "category": {
+                        "name": "Japan",
+                        "slug": "japan",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 52,
+                        "flag": "japan",
+                        "alpha2": "JP"
+                    },
+                    "userCount": 4882,
+                    "id": 402,
+                    "hasEventPlayerStatistics": false,
+                    "hasPositionGraph": true
+                },
+                "priority": 0,
+                "id": 3034
+            },
+            "roundInfo": {
+                "round": 12
+            },
+            "customId": "lQcsjNr",
+            "status": {
+                "code": 6,
+                "description": "1st half",
+                "type": "inprogress"
+            },
+            "winnerCode": 0,
+            "homeTeam": {
+                "name": "Yokohama FC",
+                "slug": "yokohama-fc",
+                "shortName": "Yokohama",
+                "gender": "M",
+                "userCount": 5126,
+                "nameCode": "YOK",
+                "national": false,
+                "type": 0,
+                "id": 7061,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#0080ff",
+                    "secondary": "#00003e",
+                    "text": "#00003e"
+                }
+            },
+            "awayTeam": {
+                "name": "Machida Zelvia",
+                "slug": "machida-zelvia",
+                "shortName": "Machida Z",
+                "gender": "M",
+                "userCount": 1574,
+                "nameCode": "MZE",
+                "national": false,
+                "type": 0,
+                "id": 44409,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#3f48cc",
+                    "secondary": "#957c28",
+                    "text": "#957c28"
+                }
+            },
+            "homeScore": {
+                "current": 1,
+                "display": 1,
+                "period1": 1
+            },
+            "awayScore": {
+                "current": 0,
+                "display": 0,
+                "period1": 0
+            },
+            "time": {
+                "injuryTime1": 2,
+                "initial": 0,
+                "max": 2700,
+                "extra": 660,
+                "currentPeriodStartTimestamp": 1651053793
+            },
+            "changes": {
+                "changes": [
+                    "time.injuryTime1"
+                ],
+                "changeTimestamp": 1651056522
+            },
+            "hasGlobalHighlights": false,
+            "id": 10094854,
+            "statusTime": {
+                "prefix": "",
+                "initial": 0,
+                "max": 2700,
+                "timestamp": 1651053793,
+                "extra": 660
+            },
+            "startTimestamp": 1651053600,
+            "slug": "yokohama-fc-machida-zelvia",
+            "lastPeriod": "period1",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "J.League 2",
+                "slug": "jleague-2",
+                "category": {
+                    "name": "Japan",
+                    "slug": "japan",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 52,
+                    "flag": "japan",
+                    "alpha2": "JP"
+                },
+                "uniqueTournament": {
+                    "name": "J.League 2",
+                    "slug": "jleague-2",
+                    "category": {
+                        "name": "Japan",
+                        "slug": "japan",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 52,
+                        "flag": "japan",
+                        "alpha2": "JP"
+                    },
+                    "userCount": 4882,
+                    "id": 402,
+                    "hasEventPlayerStatistics": false,
+                    "hasPositionGraph": true
+                },
+                "priority": 0,
+                "id": 3034
+            },
+            "roundInfo": {
+                "round": 12
+            },
+            "customId": "Ombsmpc",
+            "status": {
+                "code": 6,
+                "description": "1st half",
+                "type": "inprogress"
+            },
+            "winnerCode": 0,
+            "homeTeam": {
+                "name": "Ventforet Kofu",
+                "slug": "ventforet-kofu",
+                "shortName": "Ventforet Kofu",
+                "gender": "M",
+                "userCount": 1833,
+                "nameCode": "VKO",
+                "national": false,
+                "type": 0,
+                "id": 5762,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#4b03c2",
+                    "secondary": "#4b03c2",
+                    "text": "#4b03c2"
+                }
+            },
+            "awayTeam": {
+                "name": "Tokyo Verdy",
+                "slug": "tokyo-verdy",
+                "shortName": "Tokyo Verdy",
+                "gender": "M",
+                "userCount": 3006,
+                "nameCode": "TVE",
+                "national": false,
+                "type": 0,
+                "id": 3139,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#22b14c",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                }
+            },
+            "homeScore": {
+                "current": 0,
+                "display": 0,
+                "period1": 0
+            },
+            "awayScore": {
+                "current": 0,
+                "display": 0,
+                "period1": 0
+            },
+            "coverage": -1,
+            "time": {
+                "initial": 0,
+                "max": 2700,
+                "extra": 540,
+                "currentPeriodStartTimestamp": 1651055603
+            },
+            "changes": {
+                "changes": [
+                    "homeScore.period1",
+                    "awayScore.period1",
+                    "time.currentPeriodStart",
+                    "status.code",
+                    "status.description",
+                    "status.type",
+                    "homeScore.current",
+                    "homeScore.display",
+                    "awayScore.current",
+                    "awayScore.display",
+                    "time.currentPeriodStart"
+                ],
+                "changeTimestamp": 1651055607
+            },
+            "hasGlobalHighlights": false,
+            "id": 10094825,
+            "statusTime": {
+                "prefix": "",
+                "initial": 0,
+                "max": 2700,
+                "timestamp": 1651055603,
+                "extra": 540
+            },
+            "startTimestamp": 1651055400,
+            "slug": "ventforet-kofu-tokyo-verdy",
+            "lastPeriod": "period1",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "Premier League",
+                "slug": "premier-league",
+                "category": {
+                    "name": "Kazakhstan",
+                    "slug": "kazakhstan",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 278,
+                    "flag": "kazakhstan",
+                    "alpha2": "KZ"
+                },
+                "uniqueTournament": {
+                    "name": "Premier League",
+                    "slug": "premier-league",
+                    "category": {
+                        "name": "Kazakhstan",
+                        "slug": "kazakhstan",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 278,
+                        "flag": "kazakhstan",
+                        "alpha2": "KZ"
+                    },
+                    "userCount": 3824,
+                    "id": 682,
+                    "hasEventPlayerStatistics": false,
+                    "hasPositionGraph": true
+                },
+                "priority": 0,
+                "id": 3103
+            },
+            "roundInfo": {
+                "round": 8
+            },
+            "customId": "rhcsJgL",
+            "status": {
+                "code": 31,
+                "description": "Halftime",
+                "type": "inprogress"
+            },
+            "homeTeam": {
+                "name": "Qyzyljar SK Petropavlovsk",
+                "slug": "qyzyljar-sk-petropavlovsk",
+                "shortName": "Qyzyljar SK",
+                "gender": "M",
+                "userCount": 893,
+                "nameCode": "QPE",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 5367,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#0000ff",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "awayTeam": {
+                "name": "Maktaaral",
+                "slug": "maktaaral",
+                "shortName": "Maktaaral",
+                "gender": "M",
+                "userCount": 1317,
+                "nameCode": "MAK",
+                "national": false,
+                "type": 0,
+                "id": 90334,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#e60026",
+                    "secondary": "#091f92",
+                    "text": "#091f92"
+                }
+            },
+            "homeScore": {
+                "current": 0,
+                "display": 0,
+                "period1": 0,
+                "normaltime": 0
+            },
+            "awayScore": {
+                "current": 1,
+                "display": 1,
+                "period1": 1,
+                "normaltime": 1
+            },
+            "coverage": -1,
+            "time": {
+                "currentPeriodStartTimestamp": 1651053540
+            },
+            "changes": {
+                "changes": [
+                    "status.code",
+                    "status.description",
+                    "awayScore.period1",
+                    "awayScore.normaltime"
+                ],
+                "changeTimestamp": 1651056521
+            },
+            "hasGlobalHighlights": false,
+            "id": 10163142,
+            "startTimestamp": 1651053600,
+            "slug": "maktaaral-qyzyljar-sk-petropavlovsk",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "Cup, Women",
+                "slug": "cup-women",
+                "category": {
+                    "name": "North Macedonia",
+                    "slug": "north-macedonia",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 159,
+                    "flag": "macedonia",
+                    "alpha2": "MK"
+                },
+                "priority": 0,
+                "id": 43677
+            },
+            "customId": "RqgcszTtc",
+            "status": {
+                "code": 7,
+                "description": "2nd half",
+                "type": "inprogress"
+            },
+            "winnerCode": 0,
+            "homeTeam": {
+                "name": "ZFK AS Junajted Struga",
+                "slug": "zfk-as-junajted-struga",
+                "shortName": "ZFK AS Junajted Struga",
+                "gender": "F",
+                "userCount": 131,
+                "nameCode": "JST",
+                "national": false,
+                "type": 0,
+                "id": 265842,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#52b030",
+                    "secondary": "#52b030",
+                    "text": "#ffffff"
+                }
+            },
+            "awayTeam": {
+                "name": "ZFK Ljuboten",
+                "slug": "zfk-ljuboten",
+                "shortName": "ZFK Ljuboten",
+                "gender": "F",
+                "userCount": 129,
+                "nameCode": "LJU",
+                "national": false,
+                "type": 0,
+                "id": 297174,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#52b030",
+                    "secondary": "#52b030",
+                    "text": "#ffffff"
+                }
+            },
+            "homeScore": {
+                "current": 3,
+                "display": 3,
+                "period1": 2
+            },
+            "awayScore": {
+                "current": 1,
+                "display": 1,
+                "period1": 0
+            },
+            "coverage": -1,
+            "time": {
+                "initial": 2700,
+                "max": 5400,
+                "extra": 540,
+                "currentPeriodStartTimestamp": 1651053917
+            },
+            "changes": {
+                "changes": [
+                    "homeScore.current",
+                    "homeScore.display"
+                ],
+                "changeTimestamp": 1651056344
+            },
+            "hasGlobalHighlights": false,
+            "id": 10275678,
+            "statusTime": {
+                "prefix": "",
+                "initial": 2700,
+                "max": 5400,
+                "timestamp": 1651053917,
+                "extra": 540
+            },
+            "startTimestamp": 1651050000,
+            "slug": "zfk-ljuboten-zfk-as-junajted-struga",
+            "lastPeriod": "period2",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "FA Cup",
+                "slug": "fa-cup",
+                "category": {
+                    "name": "South Korea",
+                    "slug": "south-korea",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 291,
+                    "flag": "south-korea",
+                    "alpha2": "KR"
+                },
+                "uniqueTournament": {
+                    "name": "Korean FA Cup",
+                    "slug": "korean-fa-cup",
+                    "category": {
+                        "name": "South Korea",
+                        "slug": "south-korea",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 291,
+                        "flag": "south-korea",
+                        "alpha2": "KR"
+                    },
+                    "userCount": 1149,
+                    "id": 615,
+                    "hasEventPlayerStatistics": false,
+                    "hasPositionGraph": false
+                },
+                "priority": 0,
+                "id": 4417
+            },
+            "roundInfo": {
+                "round": 3,
+                "name": "Round 3",
+                "slug": "round-3"
+            },
+            "customId": "lAqsOaM",
+            "status": {
+                "code": 31,
+                "description": "Halftime",
+                "type": "inprogress"
+            },
+            "winnerCode": 0,
+            "homeTeam": {
+                "name": "Bucheon FC 1995",
+                "slug": "bucheon-fc-1995",
+                "shortName": "Bucheon",
+                "gender": "M",
+                "userCount": 1431,
+                "nameCode": "BUC",
+                "national": false,
+                "type": 0,
+                "id": 92539,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ff0000",
+                    "secondary": "#ffc700",
+                    "text": "#ffc700"
+                }
+            },
+            "awayTeam": {
+                "name": "Suwon FC",
+                "slug": "suwon-fc",
+                "shortName": "Suwon FC",
+                "gender": "M",
+                "userCount": 2726,
+                "nameCode": "SCI",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 41261,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#000b6c",
+                    "secondary": "#d60000",
+                    "text": "#d60000"
+                }
+            },
+            "homeScore": {
+                "current": 1,
+                "display": 1,
+                "period1": 1,
+                "period2": 0
+            },
+            "awayScore": {
+                "current": 0,
+                "display": 0,
+                "period1": 0,
+                "period2": 0
+            },
+            "coverage": -1,
+            "time": {
+                "injuryTime1": 1,
+                "currentPeriodStartTimestamp": 1651056396
+            },
+            "changes": {
+                "changes": [
+                    "time.currentPeriodStart",
+                    "status.code",
+                    "status.description",
+                    "homeScore.period2",
+                    "awayScore.period2"
+                ],
+                "changeTimestamp": 1651056399
+            },
+            "hasGlobalHighlights": false,
+            "id": 10240701,
+            "startTimestamp": 1651053600,
+            "slug": "bucheon-fc-1995-suwon-fc",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "FA Cup",
+                "slug": "fa-cup",
+                "category": {
+                    "name": "South Korea",
+                    "slug": "south-korea",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 291,
+                    "flag": "south-korea",
+                    "alpha2": "KR"
+                },
+                "uniqueTournament": {
+                    "name": "Korean FA Cup",
+                    "slug": "korean-fa-cup",
+                    "category": {
+                        "name": "South Korea",
+                        "slug": "south-korea",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 291,
+                        "flag": "south-korea",
+                        "alpha2": "KR"
+                    },
+                    "userCount": 1149,
+                    "id": 615,
+                    "hasEventPlayerStatistics": false,
+                    "hasPositionGraph": false
+                },
+                "priority": 0,
+                "id": 4417
+            },
+            "roundInfo": {
+                "round": 3,
+                "name": "Round 3",
+                "slug": "round-3"
+            },
+            "customId": "WcdsmAq",
+            "status": {
+                "code": 31,
+                "description": "Halftime",
+                "type": "inprogress"
+            },
+            "winnerCode": 0,
+            "homeTeam": {
+                "name": "Changwon City",
+                "slug": "changwon-city",
+                "shortName": "Changwon City",
+                "gender": "M",
+                "userCount": 562,
+                "nameCode": "CCI",
+                "national": false,
+                "type": 0,
+                "id": 41262,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#cc0033",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                }
+            },
+            "awayTeam": {
+                "name": "FC Seoul",
+                "slug": "fc-seoul",
+                "shortName": "Seoul",
+                "gender": "M",
+                "userCount": 3466,
+                "nameCode": "SEO",
+                "national": false,
+                "type": 0,
+                "id": 7646,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ff0000",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                }
+            },
+            "homeScore": {
+                "current": 0,
+                "display": 0,
+                "period1": 0,
+                "period2": 0
+            },
+            "awayScore": {
+                "current": 0,
+                "display": 0,
+                "period1": 0,
+                "period2": 0
+            },
+            "coverage": -1,
+            "time": {
+                "injuryTime1": 1,
+                "currentPeriodStartTimestamp": 1651056419
+            },
+            "changes": {
+                "changes": [
+                    "time.currentPeriodStart",
+                    "status.code",
+                    "status.description",
+                    "homeScore.period2",
+                    "awayScore.period2"
+                ],
+                "changeTimestamp": 1651056424
+            },
+            "hasGlobalHighlights": false,
+            "id": 10240692,
+            "startTimestamp": 1651053600,
+            "slug": "fc-seoul-changwon-city",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "FA Cup",
+                "slug": "fa-cup",
+                "category": {
+                    "name": "South Korea",
+                    "slug": "south-korea",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 291,
+                    "flag": "south-korea",
+                    "alpha2": "KR"
+                },
+                "uniqueTournament": {
+                    "name": "Korean FA Cup",
+                    "slug": "korean-fa-cup",
+                    "category": {
+                        "name": "South Korea",
+                        "slug": "south-korea",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 291,
+                        "flag": "south-korea",
+                        "alpha2": "KR"
+                    },
+                    "userCount": 1149,
+                    "id": 615,
+                    "hasEventPlayerStatistics": false,
+                    "hasPositionGraph": false
+                },
+                "priority": 0,
+                "id": 4417
+            },
+            "roundInfo": {
+                "round": 3,
+                "name": "Round 3",
+                "slug": "round-3"
+            },
+            "customId": "oAqsBwnd",
+            "status": {
+                "code": 31,
+                "description": "Halftime",
+                "type": "inprogress"
+            },
+            "winnerCode": 0,
+            "homeTeam": {
+                "name": "Daejeon Korail",
+                "slug": "daejeon-korail",
+                "shortName": "Daejeon Korail",
+                "gender": "M",
+                "userCount": 592,
+                "nameCode": "IKO",
+                "national": false,
+                "type": 0,
+                "id": 41264,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#094d93",
+                    "secondary": "#0099ff",
+                    "text": "#0099ff"
+                }
+            },
+            "awayTeam": {
+                "name": "Pyeongchang United",
+                "slug": "pyeongchang-united",
+                "shortName": "Pyeongchang United",
+                "userCount": 26,
+                "nameCode": "PUN",
+                "national": false,
+                "type": 0,
+                "id": 408576,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#52b030",
+                    "secondary": "#52b030",
+                    "text": "#ffffff"
+                }
+            },
+            "homeScore": {
+                "current": 1,
+                "display": 1,
+                "period1": 1,
+                "period2": 0
+            },
+            "awayScore": {
+                "current": 1,
+                "display": 1,
+                "period1": 1,
+                "period2": 0
+            },
+            "coverage": -1,
+            "time": {
+                "injuryTime1": 4,
+                "currentPeriodStartTimestamp": 1651056571
+            },
+            "changes": {
+                "changes": [
+                    "time.currentPeriodStart",
+                    "homeScore.period2",
+                    "awayScore.period2"
+                ],
+                "changeTimestamp": 1651056577
+            },
+            "hasGlobalHighlights": false,
+            "id": 10240700,
+            "startTimestamp": 1651053600,
+            "slug": "daejeon-korail-pyeongchang-united",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "FA Cup",
+                "slug": "fa-cup",
+                "category": {
+                    "name": "South Korea",
+                    "slug": "south-korea",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 291,
+                    "flag": "south-korea",
+                    "alpha2": "KR"
+                },
+                "uniqueTournament": {
+                    "name": "Korean FA Cup",
+                    "slug": "korean-fa-cup",
+                    "category": {
+                        "name": "South Korea",
+                        "slug": "south-korea",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 291,
+                        "flag": "south-korea",
+                        "alpha2": "KR"
+                    },
+                    "userCount": 1149,
+                    "id": 615,
+                    "hasEventPlayerStatistics": false,
+                    "hasPositionGraph": false
+                },
+                "priority": 0,
+                "id": 4417
+            },
+            "roundInfo": {
+                "round": 3,
+                "name": "Round 3",
+                "slug": "round-3"
+            },
+            "customId": "vJnszdDb",
+            "status": {
+                "code": 31,
+                "description": "Halftime",
+                "type": "inprogress"
+            },
+            "winnerCode": 0,
+            "homeTeam": {
+                "name": "Gangwon FC",
+                "slug": "gangwon-fc",
+                "shortName": "Gangwon",
+                "gender": "M",
+                "userCount": 2424,
+                "nameCode": "GAN",
+                "national": false,
+                "type": 0,
+                "id": 34220,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ff7600",
+                    "secondary": "#002361",
+                    "text": "#002361"
+                }
+            },
+            "awayTeam": {
+                "name": "Hwaseong FC",
+                "slug": "hwaseong-fc",
+                "shortName": "Hwaseong FC",
+                "gender": "M",
+                "userCount": 424,
+                "nameCode": "HWA",
+                "national": false,
+                "type": 0,
+                "id": 195174,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#52b030",
+                    "secondary": "#52b030",
+                    "text": "#ffffff"
+                }
+            },
+            "homeScore": {
+                "current": 1,
+                "display": 1,
+                "period1": 1,
+                "period2": 0
+            },
+            "awayScore": {
+                "current": 0,
+                "display": 0,
+                "period1": 0,
+                "period2": 0
+            },
+            "coverage": -1,
+            "time": {
+                "injuryTime1": 2,
+                "currentPeriodStartTimestamp": 1651056529
+            },
+            "changes": {
+                "changes": [
+                    "homeScore.period2",
+                    "awayScore.period2",
+                    "time.currentPeriodStart"
+                ],
+                "changeTimestamp": 1651056534
+            },
+            "hasGlobalHighlights": false,
+            "id": 10240693,
+            "startTimestamp": 1651053600,
+            "slug": "gangwon-fc-hwaseong-fc",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "FA Cup",
+                "slug": "fa-cup",
+                "category": {
+                    "name": "South Korea",
+                    "slug": "south-korea",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 291,
+                    "flag": "south-korea",
+                    "alpha2": "KR"
+                },
+                "uniqueTournament": {
+                    "name": "Korean FA Cup",
+                    "slug": "korean-fa-cup",
+                    "category": {
+                        "name": "South Korea",
+                        "slug": "south-korea",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 291,
+                        "flag": "south-korea",
+                        "alpha2": "KR"
+                    },
+                    "userCount": 1149,
+                    "id": 615,
+                    "hasEventPlayerStatistics": false,
+                    "hasPositionGraph": false
+                },
+                "priority": 0,
+                "id": 4417
+            },
+            "roundInfo": {
+                "round": 3,
+                "name": "Round 3",
+                "slug": "round-3"
+            },
+            "customId": "addskAq",
+            "status": {
+                "code": 31,
+                "description": "Halftime",
+                "type": "inprogress"
+            },
+            "winnerCode": 0,
+            "homeTeam": {
+                "name": "Gimhae City FC",
+                "slug": "gimhae-city-fc",
+                "shortName": "Gimhae City",
+                "gender": "M",
+                "userCount": 601,
+                "nameCode": "GCI",
+                "national": false,
+                "type": 0,
+                "id": 41260,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ff0000",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                }
+            },
+            "awayTeam": {
+                "name": "Pohang Steelers",
+                "slug": "pohang-steelers",
+                "shortName": "Pohang Steelers",
+                "gender": "M",
+                "userCount": 4907,
+                "nameCode": "PST",
+                "national": false,
+                "type": 0,
+                "id": 7650,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#d40101",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                }
+            },
+            "homeScore": {
+                "current": 0,
+                "display": 0,
+                "period1": 0,
+                "period2": 0
+            },
+            "awayScore": {
+                "current": 1,
+                "display": 1,
+                "period1": 1,
+                "period2": 0
+            },
+            "coverage": -1,
+            "time": {
+                "injuryTime1": 1,
+                "currentPeriodStartTimestamp": 1651056341
+            },
+            "changes": {
+                "changes": [
+                    "time.currentPeriodStart",
+                    "status.code",
+                    "status.description",
+                    "homeScore.period2",
+                    "awayScore.period2"
+                ],
+                "changeTimestamp": 1651056346
+            },
+            "hasGlobalHighlights": false,
+            "id": 10240703,
+            "startTimestamp": 1651053600,
+            "slug": "pohang-steelers-gimhae-city-fc",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "FA Cup",
+                "slug": "fa-cup",
+                "category": {
+                    "name": "South Korea",
+                    "slug": "south-korea",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 291,
+                    "flag": "south-korea",
+                    "alpha2": "KR"
+                },
+                "uniqueTournament": {
+                    "name": "Korean FA Cup",
+                    "slug": "korean-fa-cup",
+                    "category": {
+                        "name": "South Korea",
+                        "slug": "south-korea",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 291,
+                        "flag": "south-korea",
+                        "alpha2": "KR"
+                    },
+                    "userCount": 1149,
+                    "id": 615,
+                    "hasEventPlayerStatistics": false,
+                    "hasPositionGraph": false
+                },
+                "priority": 0,
+                "id": 4417
+            },
+            "roundInfo": {
+                "round": 3,
+                "name": "Round 3",
+                "slug": "round-3"
+            },
+            "customId": "fAqsxdDb",
+            "status": {
+                "code": 31,
+                "description": "Halftime",
+                "type": "inprogress"
+            },
+            "winnerCode": 0,
+            "homeTeam": {
+                "name": "Gimpo Citizen",
+                "slug": "gimpo-citizen",
+                "shortName": "Gimpo Citizen",
+                "gender": "M",
+                "userCount": 1410,
+                "nameCode": "GCI",
+                "national": false,
+                "type": 0,
+                "id": 195172,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#52b030",
+                    "secondary": "#52b030",
+                    "text": "#ffffff"
+                }
+            },
+            "awayTeam": {
+                "name": "Busan Transportation Corporation",
+                "slug": "busan-transportation-corporation",
+                "shortName": "Busan Trans. Corp.",
+                "gender": "M",
+                "userCount": 541,
+                "nameCode": "BTC",
+                "national": false,
+                "type": 0,
+                "id": 41255,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ffffff",
+                    "secondary": "#0000ff",
+                    "text": "#0000ff"
+                }
+            },
+            "homeScore": {
+                "current": 0,
+                "display": 0,
+                "period1": 0,
+                "period2": 0
+            },
+            "awayScore": {
+                "current": 1,
+                "display": 1,
+                "period1": 1,
+                "period2": 0
+            },
+            "coverage": -1,
+            "time": {
+                "injuryTime1": 2,
+                "currentPeriodStartTimestamp": 1651056441
+            },
+            "changes": {
+                "changes": [
+                    "homeScore.period2",
+                    "awayScore.period2",
+                    "time.currentPeriodStart"
+                ],
+                "changeTimestamp": 1651056444
+            },
+            "hasGlobalHighlights": false,
+            "id": 10240699,
+            "startTimestamp": 1651053600,
+            "slug": "busan-transportation-corporation-gimpo-citizen",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "FA Cup",
+                "slug": "fa-cup",
+                "category": {
+                    "name": "South Korea",
+                    "slug": "south-korea",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 291,
+                    "flag": "south-korea",
+                    "alpha2": "KR"
+                },
+                "uniqueTournament": {
+                    "name": "Korean FA Cup",
+                    "slug": "korean-fa-cup",
+                    "category": {
+                        "name": "South Korea",
+                        "slug": "south-korea",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 291,
+                        "flag": "south-korea",
+                        "alpha2": "KR"
+                    },
+                    "userCount": 1149,
+                    "id": 615,
+                    "hasEventPlayerStatistics": false,
+                    "hasPositionGraph": false
+                },
+                "priority": 0,
+                "id": 4417
+            },
+            "roundInfo": {
+                "round": 3,
+                "name": "Round 3",
+                "slug": "round-3"
+            },
+            "customId": "vPishAq",
+            "status": {
+                "code": 31,
+                "description": "Halftime",
+                "type": "inprogress"
+            },
+            "winnerCode": 0,
+            "homeTeam": {
+                "name": "Gyeongnam FC",
+                "slug": "gyeongnam-fc",
+                "shortName": "Gyeongnam",
+                "gender": "M",
+                "userCount": 1455,
+                "nameCode": "GYE",
+                "national": false,
+                "type": 0,
+                "id": 22020,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#f70000",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                }
+            },
+            "awayTeam": {
+                "name": "Gyeongju KHNP",
+                "slug": "gyeongju-khnp",
+                "shortName": "Gyeongju KHNP",
+                "gender": "M",
+                "userCount": 615,
+                "nameCode": "GHY",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 41257,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#006400",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                }
+            },
+            "homeScore": {
+                "current": 0,
+                "display": 0,
+                "period1": 0,
+                "period2": 0
+            },
+            "awayScore": {
+                "current": 0,
+                "display": 0,
+                "period1": 0,
+                "period2": 0
+            },
+            "coverage": -1,
+            "time": {
+                "injuryTime1": 2,
+                "currentPeriodStartTimestamp": 1651056477
+            },
+            "changes": {
+                "changes": [
+                    "homeScore.period2",
+                    "awayScore.period2",
+                    "time.currentPeriodStart"
+                ],
+                "changeTimestamp": 1651056480
+            },
+            "hasGlobalHighlights": false,
+            "id": 10240696,
+            "startTimestamp": 1651053600,
+            "slug": "gyeongju-khnp-gyeongnam-fc",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "FA Cup",
+                "slug": "fa-cup",
+                "category": {
+                    "name": "South Korea",
+                    "slug": "south-korea",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 291,
+                    "flag": "south-korea",
+                    "alpha2": "KR"
+                },
+                "uniqueTournament": {
+                    "name": "Korean FA Cup",
+                    "slug": "korean-fa-cup",
+                    "category": {
+                        "name": "South Korea",
+                        "slug": "south-korea",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 291,
+                        "flag": "south-korea",
+                        "alpha2": "KR"
+                    },
+                    "userCount": 1149,
+                    "id": 615,
+                    "hasEventPlayerStatistics": false,
+                    "hasPositionGraph": false
+                },
+                "priority": 0,
+                "id": 4417
+            },
+            "roundInfo": {
+                "round": 3,
+                "name": "Round 3",
+                "slug": "round-3"
+            },
+            "customId": "YcdsmDu",
+            "status": {
+                "code": 31,
+                "description": "Halftime",
+                "type": "inprogress"
+            },
+            "winnerCode": 0,
+            "homeTeam": {
+                "name": "Incheon United",
+                "slug": "incheon-united",
+                "shortName": "Incheon Utd",
+                "gender": "M",
+                "userCount": 2602,
+                "nameCode": "IUN",
+                "national": false,
+                "type": 0,
+                "id": 7648,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#0000ff",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                }
+            },
+            "awayTeam": {
+                "name": "Gwangju FC",
+                "slug": "gwangju-fc",
+                "shortName": "Gwangju",
+                "gender": "M",
+                "userCount": 2817,
+                "nameCode": "GWA",
+                "national": false,
+                "type": 0,
+                "id": 48912,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ffde00",
+                    "secondary": "#b4202f",
+                    "text": "#b4202f"
+                }
+            },
+            "homeScore": {
+                "current": 0,
+                "display": 0,
+                "period1": 0,
+                "period2": 0
+            },
+            "awayScore": {
+                "current": 3,
+                "display": 3,
+                "period1": 3,
+                "period2": 0
+            },
+            "coverage": -1,
+            "time": {
+                "injuryTime1": 1,
+                "currentPeriodStartTimestamp": 1651056395
+            },
+            "changes": {
+                "changes": [
+                    "time.currentPeriodStart",
+                    "homeScore.period2",
+                    "awayScore.period2"
+                ],
+                "changeTimestamp": 1651056399
+            },
+            "hasGlobalHighlights": false,
+            "id": 10240704,
+            "startTimestamp": 1651053600,
+            "slug": "incheon-united-gwangju-fc",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "FA Cup",
+                "slug": "fa-cup",
+                "category": {
+                    "name": "South Korea",
+                    "slug": "south-korea",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 291,
+                    "flag": "south-korea",
+                    "alpha2": "KR"
+                },
+                "uniqueTournament": {
+                    "name": "Korean FA Cup",
+                    "slug": "korean-fa-cup",
+                    "category": {
+                        "name": "South Korea",
+                        "slug": "south-korea",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 291,
+                        "flag": "south-korea",
+                        "alpha2": "KR"
+                    },
+                    "userCount": 1149,
+                    "id": 615,
+                    "hasEventPlayerStatistics": false,
+                    "hasPositionGraph": false
+                },
+                "priority": 0,
+                "id": 4417
+            },
+            "roundInfo": {
+                "round": 3,
+                "name": "Round 3",
+                "slug": "round-3"
+            },
+            "customId": "ZcdsAdn",
+            "status": {
+                "code": 31,
+                "description": "Halftime",
+                "type": "inprogress"
+            },
+            "winnerCode": 0,
+            "homeTeam": {
+                "name": "Jeju United",
+                "slug": "jeju-united",
+                "shortName": "Jeju United",
+                "gender": "M",
+                "userCount": 3235,
+                "nameCode": "JUT",
+                "national": false,
+                "type": 0,
+                "id": 7649,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#fe7026",
+                    "secondary": "#fe7026",
+                    "text": "#fe7026"
+                }
+            },
+            "awayTeam": {
+                "name": "FC Anyang",
+                "slug": "fc-anyang",
+                "shortName": "FC Anyang",
+                "gender": "M",
+                "userCount": 2821,
+                "nameCode": "ANY",
+                "national": false,
+                "type": 0,
+                "id": 32675,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#3e1865",
+                    "secondary": "#4d187e",
+                    "text": "#4d187e"
+                }
+            },
+            "homeScore": {
+                "current": 0,
+                "display": 0,
+                "period1": 0,
+                "period2": 0
+            },
+            "awayScore": {
+                "current": 0,
+                "display": 0,
+                "period1": 0,
+                "period2": 0
+            },
+            "coverage": -1,
+            "time": {
+                "injuryTime1": 1,
+                "currentPeriodStartTimestamp": 1651056380
+            },
+            "changes": {
+                "changes": [
+                    "homeScore.period2",
+                    "awayScore.period2",
+                    "time.currentPeriodStart"
+                ],
+                "changeTimestamp": 1651056384
+            },
+            "hasGlobalHighlights": false,
+            "id": 10240707,
+            "startTimestamp": 1651053600,
+            "slug": "jeju-united-fc-anyang",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "FA Cup",
+                "slug": "fa-cup",
+                "category": {
+                    "name": "South Korea",
+                    "slug": "south-korea",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 291,
+                    "flag": "south-korea",
+                    "alpha2": "KR"
+                },
+                "uniqueTournament": {
+                    "name": "Korean FA Cup",
+                    "slug": "korean-fa-cup",
+                    "category": {
+                        "name": "South Korea",
+                        "slug": "south-korea",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 291,
+                        "flag": "south-korea",
+                        "alpha2": "KR"
+                    },
+                    "userCount": 1149,
+                    "id": 615,
+                    "hasEventPlayerStatistics": false,
+                    "hasPositionGraph": false
+                },
+                "priority": 0,
+                "id": 4417
+            },
+            "roundInfo": {
+                "round": 3,
+                "name": "Round 3",
+                "slug": "round-3"
+            },
+            "customId": "bddsCWKc",
+            "status": {
+                "code": 31,
+                "description": "Halftime",
+                "type": "inprogress"
+            },
+            "winnerCode": 0,
+            "homeTeam": {
+                "name": "Seongnam FC",
+                "slug": "seongnam-fc",
+                "shortName": "Seongnam",
+                "gender": "M",
+                "userCount": 2016,
+                "nameCode": "SEO",
+                "national": false,
+                "type": 0,
+                "id": 7651,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#000000",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                }
+            },
+            "awayTeam": {
+                "name": "Chungnam Asan FC",
+                "slug": "chungnam-asan-fc",
+                "shortName": "Chungnam Asan",
+                "gender": "M",
+                "userCount": 1157,
+                "nameCode": "CAS",
+                "national": false,
+                "type": 0,
+                "id": 339827,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ffe000",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                }
+            },
+            "homeScore": {
+                "current": 0,
+                "display": 0,
+                "period1": 0,
+                "period2": 0
+            },
+            "awayScore": {
+                "current": 0,
+                "display": 0,
+                "period1": 0,
+                "period2": 0
+            },
+            "coverage": -1,
+            "time": {
+                "currentPeriodStartTimestamp": 1651056341
+            },
+            "changes": {
+                "changes": [
+                    "homeScore.period2",
+                    "awayScore.period2",
+                    "time.currentPeriodStart"
+                ],
+                "changeTimestamp": 1651056345
+            },
+            "hasGlobalHighlights": false,
+            "id": 10240702,
+            "startTimestamp": 1651053600,
+            "slug": "seongnam-fc-chungnam-asan-fc",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "FA Cup",
+                "slug": "fa-cup",
+                "category": {
+                    "name": "South Korea",
+                    "slug": "south-korea",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 291,
+                    "flag": "south-korea",
+                    "alpha2": "KR"
+                },
+                "uniqueTournament": {
+                    "name": "Korean FA Cup",
+                    "slug": "korean-fa-cup",
+                    "category": {
+                        "name": "South Korea",
+                        "slug": "south-korea",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 291,
+                        "flag": "south-korea",
+                        "alpha2": "KR"
+                    },
+                    "userCount": 1149,
+                    "id": 615,
+                    "hasEventPlayerStatistics": false,
+                    "hasPositionGraph": false
+                },
+                "priority": 0,
+                "id": 4417
+            },
+            "roundInfo": {
+                "round": 3,
+                "name": "Round 3",
+                "slug": "round-3"
+            },
+            "customId": "RcdsiLNc",
+            "status": {
+                "code": 31,
+                "description": "Halftime",
+                "type": "inprogress"
+            },
+            "winnerCode": 0,
+            "homeTeam": {
+                "name": "Ulsan Citizen FC",
+                "slug": "ulsan-citizen-fc",
+                "shortName": "Ulsan Citizen FC",
+                "gender": "M",
+                "userCount": 358,
+                "nameCode": "UCF",
+                "national": false,
+                "type": 0,
+                "id": 346808,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#52b030",
+                    "secondary": "#52b030",
+                    "text": "#ffffff"
+                }
+            },
+            "awayTeam": {
+                "name": "Busan I Park",
+                "slug": "busan-i-park",
+                "shortName": "Busan",
+                "gender": "M",
+                "userCount": 2034,
+                "nameCode": "BPA",
+                "national": false,
+                "type": 0,
+                "id": 7642,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#e01510",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                }
+            },
+            "homeScore": {
+                "current": 1,
+                "display": 1,
+                "period1": 1,
+                "period2": 0
+            },
+            "awayScore": {
+                "current": 0,
+                "display": 0,
+                "period1": 0,
+                "period2": 0
+            },
+            "coverage": -1,
+            "time": {
+                "injuryTime1": 2,
+                "currentPeriodStartTimestamp": 1651056465
+            },
+            "changes": {
+                "changes": [
+                    "homeScore.period2",
+                    "awayScore.period2"
+                ],
+                "changeTimestamp": 1651056468
+            },
+            "hasGlobalHighlights": false,
+            "id": 10240697,
+            "startTimestamp": 1651053600,
+            "slug": "busanpark-ulsan-citizen-fc",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "U19 Lig, Elit A",
+                "slug": "u19-lig-elit-a",
+                "category": {
+                    "name": "Turkey",
+                    "slug": "turkey",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 46,
+                    "flag": "turkey",
+                    "alpha2": "TR"
+                },
+                "uniqueTournament": {
+                    "name": "U19 Lig, Elit A",
+                    "slug": "u19-lig-elit-a",
+                    "category": {
+                        "name": "Turkey",
+                        "slug": "turkey",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 46,
+                        "flag": "turkey",
+                        "alpha2": "TR"
+                    },
+                    "userCount": 1472,
+                    "id": 13959,
+                    "hasEventPlayerStatistics": false,
+                    "hasPositionGraph": false
+                },
+                "priority": 0,
+                "id": 75018
+            },
+            "roundInfo": {
+                "round": 31
+            },
+            "customId": "HLWbstFFc",
+            "status": {
+                "code": 7,
+                "description": "2nd half",
+                "type": "inprogress"
+            },
+            "homeTeam": {
+                "name": "Adana Demirspor U19",
+                "slug": "adana-demirspor-u19",
+                "shortName": "Adana DS",
+                "gender": "M",
+                "userCount": 791,
+                "nameCode": "ADE",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 326518,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#000033",
+                    "secondary": "#0099ff",
+                    "text": "#0099ff"
+                }
+            },
+            "awayTeam": {
+                "name": "Gaziantep FK U19",
+                "slug": "gaziantep-fk-u19",
+                "shortName": "Gaziantep",
+                "gender": "M",
+                "userCount": 477,
+                "nameCode": "GFK",
+                "national": false,
+                "type": 0,
+                "id": 241832,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ffffff",
+                    "secondary": "#ff0000",
+                    "text": "#ff0000"
+                }
+            },
+            "homeScore": {
+                "current": 1,
+                "display": 1,
+                "period1": 0,
+                "normaltime": 0
+            },
+            "awayScore": {
+                "current": 0,
+                "display": 0,
+                "period1": 0,
+                "normaltime": 0
+            },
+            "coverage": -1,
+            "time": {
+                "initial": 2700,
+                "max": 5400,
+                "extra": 540,
+                "currentPeriodStartTimestamp": 1651054200
+            },
+            "changes": {
+                "changes": [
+                    "homeScore.current",
+                    "homeScore.display"
+                ],
+                "changeTimestamp": 1651055587
+            },
+            "hasGlobalHighlights": false,
+            "id": 9934546,
+            "statusTime": {
+                "prefix": "",
+                "initial": 2700,
+                "max": 5400,
+                "timestamp": 1651054200,
+                "extra": 540
+            },
+            "startTimestamp": 1651050000,
+            "slug": "adana-demirspor-u19-gaziantep-fk-u19",
+            "lastPeriod": "period2",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "U19 Lig, Elit A",
+                "slug": "u19-lig-elit-a",
+                "category": {
+                    "name": "Turkey",
+                    "slug": "turkey",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 46,
+                    "flag": "turkey",
+                    "alpha2": "TR"
+                },
+                "uniqueTournament": {
+                    "name": "U19 Lig, Elit A",
+                    "slug": "u19-lig-elit-a",
+                    "category": {
+                        "name": "Turkey",
+                        "slug": "turkey",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 46,
+                        "flag": "turkey",
+                        "alpha2": "TR"
+                    },
+                    "userCount": 1472,
+                    "id": 13959,
+                    "hasEventPlayerStatistics": false,
+                    "hasPositionGraph": false
+                },
+                "priority": 0,
+                "id": 75018
+            },
+            "roundInfo": {
+                "round": 31
+            },
+            "customId": "oCHbszvYb",
+            "status": {
+                "code": 7,
+                "description": "2nd half",
+                "type": "inprogress"
+            },
+            "homeTeam": {
+                "name": "Altay SK U19",
+                "slug": "altay-sk-u19",
+                "shortName": "Altay SK",
+                "gender": "M",
+                "userCount": 463,
+                "nameCode": "ALT",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 246024,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#000000",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "awayTeam": {
+                "name": "Be\u015fikta\u015f U19",
+                "slug": "besiktas-u19",
+                "shortName": "Be\u015fikta\u015f",
+                "gender": "M",
+                "userCount": 3321,
+                "nameCode": "BES",
+                "national": false,
+                "type": 0,
+                "id": 206364,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ffffff",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                }
+            },
+            "homeScore": {
+                "current": 1,
+                "display": 1,
+                "period1": 1,
+                "normaltime": 1
+            },
+            "awayScore": {
+                "current": 3,
+                "display": 3,
+                "period1": 2,
+                "normaltime": 2
+            },
+            "coverage": -1,
+            "time": {
+                "initial": 2700,
+                "max": 5400,
+                "extra": 540,
+                "currentPeriodStartTimestamp": 1651053900
+            },
+            "changes": {
+                "changes": [
+                    "awayScore.current",
+                    "awayScore.display"
+                ],
+                "changeTimestamp": 1651056383
+            },
+            "hasGlobalHighlights": false,
+            "id": 9934482,
+            "statusTime": {
+                "prefix": "",
+                "initial": 2700,
+                "max": 5400,
+                "timestamp": 1651053900,
+                "extra": 540
+            },
+            "startTimestamp": 1651050000,
+            "slug": "altay-sk-u19-besiktas-u19",
+            "lastPeriod": "period2",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "U19 Lig, Elit A",
+                "slug": "u19-lig-elit-a",
+                "category": {
+                    "name": "Turkey",
+                    "slug": "turkey",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 46,
+                    "flag": "turkey",
+                    "alpha2": "TR"
+                },
+                "uniqueTournament": {
+                    "name": "U19 Lig, Elit A",
+                    "slug": "u19-lig-elit-a",
+                    "category": {
+                        "name": "Turkey",
+                        "slug": "turkey",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 46,
+                        "flag": "turkey",
+                        "alpha2": "TR"
+                    },
+                    "userCount": 1472,
+                    "id": 13959,
+                    "hasEventPlayerStatistics": false,
+                    "hasPositionGraph": false
+                },
+                "priority": 0,
+                "id": 75018
+            },
+            "roundInfo": {
+                "round": 31
+            },
+            "customId": "ILWbsDMXb",
+            "status": {
+                "code": 7,
+                "description": "2nd half",
+                "type": "inprogress"
+            },
+            "winnerCode": 0,
+            "homeTeam": {
+                "name": "Antalyaspor U19",
+                "slug": "antalyaspor-u19",
+                "shortName": "Antalyaspor",
+                "gender": "M",
+                "userCount": 990,
+                "nameCode": "ANT",
+                "national": false,
+                "type": 0,
+                "id": 244378,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ffffff",
+                    "secondary": "#ff0000",
+                    "text": "#ff0000"
+                }
+            },
+            "awayTeam": {
+                "name": "Yeni Malatyaspor U19",
+                "slug": "yeni-malatyaspor-u19",
+                "shortName": "Malatyaspor",
+                "gender": "M",
+                "userCount": 578,
+                "nameCode": "MAL",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 241833,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#f0e301",
+                    "secondary": "#dd0000",
+                    "text": "#dd0000"
+                }
+            },
+            "homeScore": {
+                "current": 0,
+                "display": 0,
+                "period1": 0
+            },
+            "awayScore": {
+                "current": 1,
+                "display": 1,
+                "period1": 0
+            },
+            "coverage": -1,
+            "time": {
+                "injuryTime1": 4,
+                "initial": 2700,
+                "max": 5400,
+                "extra": 540,
+                "currentPeriodStartTimestamp": 1651054232
+            },
+            "changes": {
+                "changes": [
+                    "awayScore.current",
+                    "awayScore.display"
+                ],
+                "changeTimestamp": 1651056344
+            },
+            "hasGlobalHighlights": false,
+            "id": 9934525,
+            "statusTime": {
+                "prefix": "",
+                "initial": 2700,
+                "max": 5400,
+                "timestamp": 1651054232,
+                "extra": 540
+            },
+            "startTimestamp": 1651050000,
+            "slug": "antalyaspor-u19-yeni-malatyaspor-u19",
+            "lastPeriod": "period2",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "U19 Lig, Elit A",
+                "slug": "u19-lig-elit-a",
+                "category": {
+                    "name": "Turkey",
+                    "slug": "turkey",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 46,
+                    "flag": "turkey",
+                    "alpha2": "TR"
+                },
+                "uniqueTournament": {
+                    "name": "U19 Lig, Elit A",
+                    "slug": "u19-lig-elit-a",
+                    "category": {
+                        "name": "Turkey",
+                        "slug": "turkey",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 46,
+                        "flag": "turkey",
+                        "alpha2": "TR"
+                    },
+                    "userCount": 1472,
+                    "id": 13959,
+                    "hasEventPlayerStatistics": false,
+                    "hasPositionGraph": false
+                },
+                "priority": 0,
+                "id": 75018
+            },
+            "roundInfo": {
+                "round": 31
+            },
+            "customId": "trWbsLLWb",
+            "status": {
+                "code": 7,
+                "description": "2nd half",
+                "type": "inprogress"
+            },
+            "homeTeam": {
+                "name": "Giresunspor U19",
+                "slug": "giresunspor-u19",
+                "shortName": "Giresunspor",
+                "gender": "M",
+                "userCount": 639,
+                "nameCode": "GIR",
+                "national": false,
+                "type": 0,
+                "id": 240868,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#52b030",
+                    "secondary": "#52b030",
+                    "text": "#ffffff"
+                }
+            },
+            "awayTeam": {
+                "name": "Kayserispor U19",
+                "slug": "kayserispor-u19",
+                "shortName": "Kayserispor",
+                "gender": "M",
+                "userCount": 610,
+                "nameCode": "KAY",
+                "national": false,
+                "type": 0,
+                "id": 241836,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ffcc33",
+                    "secondary": "#cc0000",
+                    "text": "#cc0000"
+                }
+            },
+            "homeScore": {
+                "current": 0,
+                "display": 0,
+                "period1": 0,
+                "normaltime": 0
+            },
+            "awayScore": {
+                "current": 3,
+                "display": 3,
+                "period1": 3,
+                "normaltime": 3
+            },
+            "coverage": -1,
+            "time": {
+                "initial": 2700,
+                "max": 5400,
+                "extra": 540,
+                "currentPeriodStartTimestamp": 1651054020
+            },
+            "changes": {
+                "changes": [
+                    "cardsCode",
+                    "cardsCode"
+                ],
+                "changeTimestamp": 1651055227
+            },
+            "hasGlobalHighlights": false,
+            "id": 9934694,
+            "awayRedCards": 1,
+            "statusTime": {
+                "prefix": "",
+                "initial": 2700,
+                "max": 5400,
+                "timestamp": 1651054020,
+                "extra": 540
+            },
+            "startTimestamp": 1651050000,
+            "slug": "kayserispor-u19-giresunspor-u19",
+            "lastPeriod": "period2",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "U19 Lig, Elit A",
+                "slug": "u19-lig-elit-a",
+                "category": {
+                    "name": "Turkey",
+                    "slug": "turkey",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 46,
+                    "flag": "turkey",
+                    "alpha2": "TR"
+                },
+                "uniqueTournament": {
+                    "name": "U19 Lig, Elit A",
+                    "slug": "u19-lig-elit-a",
+                    "category": {
+                        "name": "Turkey",
+                        "slug": "turkey",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 46,
+                        "flag": "turkey",
+                        "alpha2": "TR"
+                    },
+                    "userCount": 1472,
+                    "id": 13959,
+                    "hasEventPlayerStatistics": false,
+                    "hasPositionGraph": false
+                },
+                "priority": 0,
+                "id": 75018
+            },
+            "roundInfo": {
+                "round": 31
+            },
+            "customId": "aBXbsuFFc",
+            "status": {
+                "code": 31,
+                "description": "Halftime",
+                "type": "inprogress"
+            },
+            "winnerCode": 0,
+            "homeTeam": {
+                "name": "Hatayspor U19",
+                "slug": "hatayspor-u19",
+                "shortName": "Hatayspor",
+                "gender": "M",
+                "userCount": 858,
+                "nameCode": "HAT",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 326519,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#600401",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "awayTeam": {
+                "name": "Fenerbah\u00e7e U19",
+                "slug": "fenerbahce-u19",
+                "shortName": "Fenerbah\u00e7e",
+                "gender": "M",
+                "userCount": 3477,
+                "nameCode": "FEN",
+                "national": false,
+                "type": 0,
+                "id": 243800,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#000066",
+                    "secondary": "#ffff00",
+                    "text": "#ffff00"
+                }
+            },
+            "homeScore": {
+                "current": 0,
+                "display": 0,
+                "period1": 0
+            },
+            "awayScore": {
+                "current": 1,
+                "display": 1,
+                "period1": 1
+            },
+            "coverage": -1,
+            "time": {
+                "injuryTime1": 1,
+                "currentPeriodStartTimestamp": 1651056490
+            },
+            "changes": {
+                "changes": [
+                    "status.code",
+                    "status.description",
+                    "homeScore.period1",
+                    "awayScore.period1",
+                    "time.currentPeriodStart",
+                    "time.injuryTime1"
+                ],
+                "changeTimestamp": 1651056515
+            },
+            "hasGlobalHighlights": false,
+            "id": 9934511,
+            "startTimestamp": 1651053600,
+            "slug": "hatayspor-u19-fenerbahce-u19",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "U19 Lig, Elit A",
+                "slug": "u19-lig-elit-a",
+                "category": {
+                    "name": "Turkey",
+                    "slug": "turkey",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 46,
+                    "flag": "turkey",
+                    "alpha2": "TR"
+                },
+                "uniqueTournament": {
+                    "name": "U19 Lig, Elit A",
+                    "slug": "u19-lig-elit-a",
+                    "category": {
+                        "name": "Turkey",
+                        "slug": "turkey",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 46,
+                        "flag": "turkey",
+                        "alpha2": "TR"
+                    },
+                    "userCount": 1472,
+                    "id": 13959,
+                    "hasEventPlayerStatistics": false,
+                    "hasPositionGraph": false
+                },
+                "priority": 0,
+                "id": 75018
+            },
+            "roundInfo": {
+                "round": 31
+            },
+            "customId": "wRWbsLvjc",
+            "status": {
+                "code": 6,
+                "description": "1st half",
+                "type": "inprogress"
+            },
+            "winnerCode": 0,
+            "homeTeam": {
+                "name": "Istanbul Ba\u015fak\u015fehir U19",
+                "slug": "istanbul-basaksehir-u19",
+                "shortName": "I. Ba\u015fak\u015fehir",
+                "gender": "M",
+                "userCount": 870,
+                "nameCode": "IST",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 273536,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#fc5000",
+                    "secondary": "#3273dc",
+                    "text": "#3273dc"
+                }
+            },
+            "awayTeam": {
+                "name": "Caykur Rizespor U19",
+                "slug": "caykur-rizespor-u19",
+                "shortName": "Caykur Rizespor",
+                "gender": "M",
+                "userCount": 569,
+                "nameCode": "CRI",
+                "national": false,
+                "type": 0,
+                "id": 242121,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#00cc33",
+                    "secondary": "#0000cc",
+                    "text": "#0000cc"
+                }
+            },
+            "homeScore": {
+                "current": 1,
+                "display": 1
+            },
+            "awayScore": {
+                "current": 2,
+                "display": 2
+            },
+            "coverage": -1,
+            "time": {
+                "injuryTime1": 3,
+                "initial": 0,
+                "max": 2700,
+                "extra": 720,
+                "currentPeriodStartTimestamp": 1651053695
+            },
+            "changes": {
+                "changes": [
+                    "time.injuryTime1"
+                ],
+                "changeTimestamp": 1651056515
+            },
+            "hasGlobalHighlights": false,
+            "id": 9934498,
+            "statusTime": {
+                "prefix": "",
+                "initial": 0,
+                "max": 2700,
+                "timestamp": 1651053695,
+                "extra": 720
+            },
+            "startTimestamp": 1651053600,
+            "slug": "istanbul-basaksehir-u19-caykur-rizespor-u19",
+            "lastPeriod": "period1",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "U19 Lig, Elit A",
+                "slug": "u19-lig-elit-a",
+                "category": {
+                    "name": "Turkey",
+                    "slug": "turkey",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 46,
+                    "flag": "turkey",
+                    "alpha2": "TR"
+                },
+                "uniqueTournament": {
+                    "name": "U19 Lig, Elit A",
+                    "slug": "u19-lig-elit-a",
+                    "category": {
+                        "name": "Turkey",
+                        "slug": "turkey",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 46,
+                        "flag": "turkey",
+                        "alpha2": "TR"
+                    },
+                    "userCount": 1472,
+                    "id": 13959,
+                    "hasEventPlayerStatistics": false,
+                    "hasPositionGraph": false
+                },
+                "priority": 0,
+                "id": 75018
+            },
+            "roundInfo": {
+                "round": 31
+            },
+            "customId": "FLWbsvRWb",
+            "status": {
+                "code": 31,
+                "description": "Halftime",
+                "type": "inprogress"
+            },
+            "winnerCode": 0,
+            "homeTeam": {
+                "name": "Trabzonspor U19",
+                "slug": "trabzonspor-u19",
+                "shortName": "Trabzonspor",
+                "gender": "M",
+                "userCount": 2856,
+                "nameCode": "TRA",
+                "national": false,
+                "type": 0,
+                "id": 242120,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#0099ff",
+                    "secondary": "#990000",
+                    "text": "#990000"
+                }
+            },
+            "awayTeam": {
+                "name": "Alanyaspor U19",
+                "slug": "alanyaspor-u19",
+                "shortName": "Alanyaspor",
+                "gender": "M",
+                "userCount": 579,
+                "nameCode": "AAL",
+                "national": false,
+                "type": 0,
+                "id": 241830,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#33cc99",
+                    "secondary": "#ff6600",
+                    "text": "#ff6600"
+                }
+            },
+            "homeScore": {
+                "current": 2,
+                "display": 2,
+                "period1": 2
+            },
+            "awayScore": {
+                "current": 0,
+                "display": 0,
+                "period1": 0
+            },
+            "coverage": -1,
+            "time": {
+                "injuryTime1": 4,
+                "currentPeriodStartTimestamp": 1651056448
+            },
+            "changes": {
+                "changes": [
+                    "status.code",
+                    "status.description",
+                    "homeScore.period1",
+                    "awayScore.period1",
+                    "time.currentPeriodStart"
+                ],
+                "changeTimestamp": 1651056515
+            },
+            "hasGlobalHighlights": false,
+            "id": 9934537,
+            "startTimestamp": 1651053600,
+            "slug": "trabzonspor-u19-alanyaspor-u19",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "U19 Lig, Elit B",
+                "slug": "u19-lig-elit-b",
+                "category": {
+                    "name": "Turkey",
+                    "slug": "turkey",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 46,
+                    "flag": "turkey",
+                    "alpha2": "TR"
+                },
+                "uniqueTournament": {
+                    "name": "U19 Lig, Elit B",
+                    "slug": "u19-lig-elit-b",
+                    "category": {
+                        "name": "Turkey",
+                        "slug": "turkey",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 46,
+                        "flag": "turkey",
+                        "alpha2": "TR"
+                    },
+                    "userCount": 760,
+                    "id": 13960,
+                    "hasEventPlayerStatistics": false,
+                    "hasPositionGraph": false
+                },
+                "priority": 0,
+                "id": 75016
+            },
+            "roundInfo": {
+                "round": 31
+            },
+            "customId": "uLWbsrZad",
+            "status": {
+                "code": 7,
+                "description": "2nd half",
+                "type": "inprogress"
+            },
+            "homeTeam": {
+                "name": "Adanaspor U19",
+                "slug": "adanaspor-u19",
+                "shortName": "Adanaspor U19",
+                "gender": "M",
+                "userCount": 504,
+                "nameCode": "AAS",
+                "national": false,
+                "type": 0,
+                "id": 377467,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#52b030",
+                    "secondary": "#52b030",
+                    "text": "#ffffff"
+                }
+            },
+            "awayTeam": {
+                "name": "\u00dcmraniyespor U19",
+                "slug": "umraniyespor-u19",
+                "shortName": "\u00dcmraniyespor",
+                "gender": "M",
+                "userCount": 401,
+                "nameCode": "UMR",
+                "national": false,
+                "type": 0,
+                "id": 241819,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ffffff",
+                    "secondary": "#ff0000",
+                    "text": "#ff0000"
+                }
+            },
+            "homeScore": {
+                "current": 2,
+                "display": 2,
+                "period1": 1,
+                "normaltime": 1
+            },
+            "awayScore": {
+                "current": 5,
+                "display": 5,
+                "period1": 2,
+                "normaltime": 2
+            },
+            "coverage": -1,
+            "time": {
+                "initial": 2700,
+                "max": 5400,
+                "extra": 540,
+                "currentPeriodStartTimestamp": 1651054320
+            },
+            "changes": {
+                "changes": [
+                    "awayScore.current",
+                    "awayScore.display"
+                ],
+                "changeTimestamp": 1651056357
+            },
+            "hasGlobalHighlights": false,
+            "id": 9934439,
+            "statusTime": {
+                "prefix": "",
+                "initial": 2700,
+                "max": 5400,
+                "timestamp": 1651054320,
+                "extra": 540
+            },
+            "startTimestamp": 1651050000,
+            "slug": "adanaspor-u19-umraniyespor-u19",
+            "lastPeriod": "period2",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "U19 Lig, Elit B",
+                "slug": "u19-lig-elit-b",
+                "category": {
+                    "name": "Turkey",
+                    "slug": "turkey",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 46,
+                    "flag": "turkey",
+                    "alpha2": "TR"
+                },
+                "uniqueTournament": {
+                    "name": "U19 Lig, Elit B",
+                    "slug": "u19-lig-elit-b",
+                    "category": {
+                        "name": "Turkey",
+                        "slug": "turkey",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 46,
+                        "flag": "turkey",
+                        "alpha2": "TR"
+                    },
+                    "userCount": 760,
+                    "id": 13960,
+                    "hasEventPlayerStatistics": false,
+                    "hasPositionGraph": false
+                },
+                "priority": 0,
+                "id": 75016
+            },
+            "roundInfo": {
+                "round": 31
+            },
+            "customId": "kpUbsARWb",
+            "status": {
+                "code": 7,
+                "description": "2nd half",
+                "type": "inprogress"
+            },
+            "homeTeam": {
+                "name": "Ankarag\u00fcc\u00fc U19",
+                "slug": "ankaragucu-u19",
+                "shortName": "Ankarag\u00fcc\u00fc",
+                "gender": "M",
+                "userCount": 396,
+                "nameCode": "ANK",
+                "national": false,
+                "type": 0,
+                "id": 235760,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ffde00",
+                    "secondary": "#000060",
+                    "text": "#000060"
+                }
+            },
+            "awayTeam": {
+                "name": "Menemen Spor U19",
+                "slug": "menemen-spor-u19",
+                "shortName": "Menemen",
+                "gender": "M",
+                "userCount": 291,
+                "nameCode": "MEN",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 242125,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ffff00",
+                    "secondary": "#0000ff",
+                    "text": "#0000ff"
+                }
+            },
+            "homeScore": {
+                "current": 2,
+                "display": 2,
+                "period1": 1,
+                "normaltime": 1
+            },
+            "awayScore": {
+                "current": 3,
+                "display": 3,
+                "period1": 1,
+                "normaltime": 1
+            },
+            "coverage": -1,
+            "time": {
+                "initial": 2700,
+                "max": 5400,
+                "extra": 540,
+                "currentPeriodStartTimestamp": 1651053900
+            },
+            "changes": {
+                "changes": [
+                    "awayScore.current",
+                    "awayScore.display"
+                ],
+                "changeTimestamp": 1651056079
+            },
+            "hasGlobalHighlights": false,
+            "id": 9934440,
+            "statusTime": {
+                "prefix": "",
+                "initial": 2700,
+                "max": 5400,
+                "timestamp": 1651053900,
+                "extra": 540
+            },
+            "startTimestamp": 1651050000,
+            "slug": "menemen-spor-u19-ankaragucu-u19",
+            "lastPeriod": "period2",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "U19 Lig, Elit B",
+                "slug": "u19-lig-elit-b",
+                "category": {
+                    "name": "Turkey",
+                    "slug": "turkey",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 46,
+                    "flag": "turkey",
+                    "alpha2": "TR"
+                },
+                "uniqueTournament": {
+                    "name": "U19 Lig, Elit B",
+                    "slug": "u19-lig-elit-b",
+                    "category": {
+                        "name": "Turkey",
+                        "slug": "turkey",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 46,
+                        "flag": "turkey",
+                        "alpha2": "TR"
+                    },
+                    "userCount": 760,
+                    "id": 13960,
+                    "hasEventPlayerStatistics": false,
+                    "hasPositionGraph": false
+                },
+                "priority": 0,
+                "id": 75016
+            },
+            "roundInfo": {
+                "round": 31
+            },
+            "customId": "rFFcsqZad",
+            "status": {
+                "code": 7,
+                "description": "2nd half",
+                "type": "inprogress"
+            },
+            "homeTeam": {
+                "name": "Bal\u0131kesirspor U19",
+                "slug": "balikesirspor-u19",
+                "shortName": "Bal\u0131kesirspor",
+                "gender": "M",
+                "userCount": 538,
+                "nameCode": "BAL",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 326517,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#cc0000",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "awayTeam": {
+                "name": "Ankara Ke\u00e7i\u00f6reng\u00fcc\u00fc U19",
+                "slug": "ankara-keciorengucu-u19",
+                "shortName": "Ankara Ke\u00e7i\u00f6reng\u00fcc\u00fc U19",
+                "gender": "M",
+                "userCount": 637,
+                "nameCode": "AKE",
+                "national": false,
+                "type": 0,
+                "id": 377466,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#52b030",
+                    "secondary": "#52b030",
+                    "text": "#ffffff"
+                }
+            },
+            "homeScore": {
+                "current": 0,
+                "display": 0,
+                "period1": 0,
+                "normaltime": 0
+            },
+            "awayScore": {
+                "current": 1,
+                "display": 1,
+                "period1": 0,
+                "normaltime": 0
+            },
+            "coverage": -1,
+            "time": {
+                "initial": 2700,
+                "max": 5400,
+                "extra": 540,
+                "currentPeriodStartTimestamp": 1651053900
+            },
+            "changes": {
+                "changes": [
+                    "awayScore.current",
+                    "awayScore.display"
+                ],
+                "changeTimestamp": 1651055284
+            },
+            "hasGlobalHighlights": false,
+            "id": 9934441,
+            "statusTime": {
+                "prefix": "",
+                "initial": 2700,
+                "max": 5400,
+                "timestamp": 1651053900,
+                "extra": 540
+            },
+            "startTimestamp": 1651050000,
+            "slug": "ankara-keciorengucu-u19-balikesirspor-u19",
+            "lastPeriod": "period2",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "U19 Lig, Elit B",
+                "slug": "u19-lig-elit-b",
+                "category": {
+                    "name": "Turkey",
+                    "slug": "turkey",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 46,
+                    "flag": "turkey",
+                    "alpha2": "TR"
+                },
+                "uniqueTournament": {
+                    "name": "U19 Lig, Elit B",
+                    "slug": "u19-lig-elit-b",
+                    "category": {
+                        "name": "Turkey",
+                        "slug": "turkey",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 46,
+                        "flag": "turkey",
+                        "alpha2": "TR"
+                    },
+                    "userCount": 760,
+                    "id": 13960,
+                    "hasEventPlayerStatistics": false,
+                    "hasPositionGraph": false
+                },
+                "priority": 0,
+                "id": 75016
+            },
+            "roundInfo": {
+                "round": 31
+            },
+            "customId": "jpWbsARac",
+            "status": {
+                "code": 7,
+                "description": "2nd half",
+                "type": "inprogress"
+            },
+            "homeTeam": {
+                "name": "Boluspor U19",
+                "slug": "boluspor-u19",
+                "shortName": "Boluspor",
+                "gender": "M",
+                "userCount": 409,
+                "nameCode": "BOL",
+                "national": false,
+                "type": 0,
+                "id": 240759,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ff0000",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "awayTeam": {
+                "name": "\u0130stanbulspor U19",
+                "slug": "istanbulspor-u19",
+                "shortName": "\u0130stanbulspor",
+                "gender": "M",
+                "userCount": 573,
+                "nameCode": "IST",
+                "disabled": false,
+                "national": false,
+                "type": 0,
+                "id": 252125,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ffde00",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                }
+            },
+            "homeScore": {
+                "current": 2,
+                "display": 2,
+                "period1": 2,
+                "normaltime": 2
+            },
+            "awayScore": {
+                "current": 4,
+                "display": 4,
+                "period1": 1,
+                "normaltime": 1
+            },
+            "coverage": -1,
+            "time": {
+                "initial": 2700,
+                "max": 5400,
+                "extra": 540,
+                "currentPeriodStartTimestamp": 1651053840
+            },
+            "changes": {
+                "changes": [
+                    "awayScore.current",
+                    "awayScore.display"
+                ],
+                "changeTimestamp": 1651055749
+            },
+            "hasGlobalHighlights": false,
+            "id": 9934664,
+            "statusTime": {
+                "prefix": "",
+                "initial": 2700,
+                "max": 5400,
+                "timestamp": 1651053840,
+                "extra": 540
+            },
+            "startTimestamp": 1651050000,
+            "slug": "istanbulspor-u19-boluspor-u19",
+            "lastPeriod": "period2",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "U19 Lig, Elit B",
+                "slug": "u19-lig-elit-b",
+                "category": {
+                    "name": "Turkey",
+                    "slug": "turkey",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 46,
+                    "flag": "turkey",
+                    "alpha2": "TR"
+                },
+                "uniqueTournament": {
+                    "name": "U19 Lig, Elit B",
+                    "slug": "u19-lig-elit-b",
+                    "category": {
+                        "name": "Turkey",
+                        "slug": "turkey",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 46,
+                        "flag": "turkey",
+                        "alpha2": "TR"
+                    },
+                    "userCount": 760,
+                    "id": 13960,
+                    "hasEventPlayerStatistics": false,
+                    "hasPositionGraph": false
+                },
+                "priority": 0,
+                "id": 75016
+            },
+            "roundInfo": {
+                "round": 31
+            },
+            "customId": "IOWbsvtac",
+            "status": {
+                "code": 7,
+                "description": "2nd half",
+                "type": "inprogress"
+            },
+            "homeTeam": {
+                "name": "Eyupspor U19",
+                "slug": "eyupspor-u19",
+                "shortName": "Eyupspor",
+                "gender": "M",
+                "userCount": 298,
+                "nameCode": "EYU",
+                "national": false,
+                "type": 0,
+                "id": 241983,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#52b030",
+                    "secondary": "#52b030",
+                    "text": "#ffffff"
+                }
+            },
+            "awayTeam": {
+                "name": "Erzurumspor U19",
+                "slug": "erzurumspor-u19",
+                "shortName": "Erzurumspor",
+                "gender": "M",
+                "userCount": 556,
+                "nameCode": "ERZ",
+                "national": false,
+                "type": 0,
+                "id": 250920,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#032f6e",
+                    "secondary": "#ffffff",
+                    "text": "#ffffff"
+                }
+            },
+            "homeScore": {
+                "current": 0,
+                "display": 0,
+                "period1": 0,
+                "normaltime": 0
+            },
+            "awayScore": {
+                "current": 0,
+                "display": 0,
+                "period1": 0,
+                "normaltime": 0
+            },
+            "coverage": -1,
+            "time": {
+                "initial": 2700,
+                "max": 5400,
+                "extra": 540,
+                "currentPeriodStartTimestamp": 1651054080
+            },
+            "changes": {
+                "changes": [
+                    "status.code",
+                    "status.description",
+                    "time.currentPeriodStart"
+                ],
+                "changeTimestamp": 1651054088
+            },
+            "hasGlobalHighlights": false,
+            "id": 9934662,
+            "statusTime": {
+                "prefix": "",
+                "initial": 2700,
+                "max": 5400,
+                "timestamp": 1651054080,
+                "extra": 540
+            },
+            "startTimestamp": 1651050000,
+            "slug": "erzurumspor-u19-eyupspor-u19",
+            "lastPeriod": "period2",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "U19 Lig, Elit B",
+                "slug": "u19-lig-elit-b",
+                "category": {
+                    "name": "Turkey",
+                    "slug": "turkey",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 46,
+                    "flag": "turkey",
+                    "alpha2": "TR"
+                },
+                "uniqueTournament": {
+                    "name": "U19 Lig, Elit B",
+                    "slug": "u19-lig-elit-b",
+                    "category": {
+                        "name": "Turkey",
+                        "slug": "turkey",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 46,
+                        "flag": "turkey",
+                        "alpha2": "TR"
+                    },
+                    "userCount": 760,
+                    "id": 13960,
+                    "hasEventPlayerStatistics": false,
+                    "hasPositionGraph": false
+                },
+                "priority": 0,
+                "id": 75016
+            },
+            "roundInfo": {
+                "round": 31
+            },
+            "customId": "tZadsFvjd",
+            "status": {
+                "code": 7,
+                "description": "2nd half",
+                "type": "inprogress"
+            },
+            "homeTeam": {
+                "name": "Manisa FK U19",
+                "slug": "manisa-fk-u19",
+                "shortName": "Manisa FK U19",
+                "gender": "M",
+                "userCount": 220,
+                "nameCode": "MFK",
+                "national": false,
+                "type": 0,
+                "id": 398530,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#52b030",
+                    "secondary": "#52b030",
+                    "text": "#ffffff"
+                }
+            },
+            "awayTeam": {
+                "name": "Band\u0131rmaspor U19",
+                "slug": "bandirmaspor-u19",
+                "shortName": "Band\u0131rmaspor U19",
+                "gender": "M",
+                "userCount": 432,
+                "nameCode": "BAN",
+                "national": false,
+                "type": 0,
+                "id": 377468,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#52b030",
+                    "secondary": "#52b030",
+                    "text": "#ffffff"
+                }
+            },
+            "homeScore": {
+                "current": 1,
+                "display": 1,
+                "period1": 1,
+                "normaltime": 1
+            },
+            "awayScore": {
+                "current": 2,
+                "display": 2,
+                "period1": 2,
+                "normaltime": 2
+            },
+            "coverage": -1,
+            "time": {
+                "initial": 2700,
+                "max": 5400,
+                "extra": 540,
+                "currentPeriodStartTimestamp": 1651054140
+            },
+            "changes": {
+                "changes": [
+                    "status.code",
+                    "status.description",
+                    "time.currentPeriodStart"
+                ],
+                "changeTimestamp": 1651054263
+            },
+            "hasGlobalHighlights": false,
+            "id": 9934450,
+            "statusTime": {
+                "prefix": "",
+                "initial": 2700,
+                "max": 5400,
+                "timestamp": 1651054140,
+                "extra": 540
+            },
+            "startTimestamp": 1651050000,
+            "slug": "manisa-fk-u19-bandirmaspor-u19",
+            "lastPeriod": "period2",
+            "finalResultOnly": false
+        },
+        {
+            "tournament": {
+                "name": "U19 Lig, Elit B",
+                "slug": "u19-lig-elit-b",
+                "category": {
+                    "name": "Turkey",
+                    "slug": "turkey",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "id": 46,
+                    "flag": "turkey",
+                    "alpha2": "TR"
+                },
+                "uniqueTournament": {
+                    "name": "U19 Lig, Elit B",
+                    "slug": "u19-lig-elit-b",
+                    "category": {
+                        "name": "Turkey",
+                        "slug": "turkey",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "id": 46,
+                        "flag": "turkey",
+                        "alpha2": "TR"
+                    },
+                    "userCount": 760,
+                    "id": 13960,
+                    "hasEventPlayerStatistics": false,
+                    "hasPositionGraph": false
+                },
+                "priority": 0,
+                "id": 75016
+            },
+            "roundInfo": {
+                "round": 31
+            },
+            "customId": "RJTbsvZad",
+            "status": {
+                "code": 7,
+                "description": "2nd half",
+                "type": "inprogress"
+            },
+            "homeTeam": {
+                "name": "Samsunspor U19",
+                "slug": "samsunspor-u19",
+                "shortName": "Samsunspor U19",
+                "gender": "M",
+                "userCount": 631,
+                "nameCode": "SAM",
+                "national": false,
+                "type": 0,
+                "id": 377470,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#52b030",
+                    "secondary": "#52b030",
+                    "text": "#ffffff"
+                }
+            },
+            "awayTeam": {
+                "name": "Genclerbirligi U19",
+                "slug": "genclerbirligi-u19",
+                "shortName": "Genclerbirligi",
+                "gender": "M",
+                "userCount": 457,
+                "nameCode": "GEN",
+                "national": false,
+                "type": 0,
+                "id": 234242,
+                "subTeams": [],
+                "teamColors": {
+                    "primary": "#ff0000",
+                    "secondary": "#000000",
+                    "text": "#000000"
+                }
+            },
+            "homeScore": {
+                "current": 2,
+                "display": 2,
+                "period1": 0,
+                "normaltime": 0
+            },
+            "awayScore": {
+                "current": 1,
+                "display": 1,
+                "period1": 0,
+                "normaltime": 0
+            },
+            "coverage": -1,
+            "time": {
+                "initial": 2700,
+                "max": 5400,
+                "extra": 540,
+                "currentPeriodStartTimestamp": 1651054260
+            },
+            "changes": {
+                "changes": [
+                    "homeScore.current",
+                    "homeScore.display"
+                ],
+                "changeTimestamp": 1651056222
+            },
+            "hasGlobalHighlights": false,
+            "id": 9934657,
+            "statusTime": {
+                "prefix": "",
+                "initial": 2700,
+                "max": 5400,
+                "timestamp": 1651054260,
+                "extra": 540
+            },
+            "startTimestamp": 1651050000,
+            "slug": "samsunspor-u19-genclerbirligi-u19",
+            "lastPeriod": "period2",
+            "finalResultOnly": false
+        }
+    ]
+}
